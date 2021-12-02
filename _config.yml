@@ -3,26 +3,26 @@
 favicon: images/favicon.ico
 
 # Content configuration version
-version: 1
+version: 2
 
 # Personal info
-name: Ting Jiang
-title: Computer Vision 
-email: tjhedlen@gmail.com
-website: hedlen.github.io
+name: Hao Xu
+title: 2D & 3D Vision 
+email: xuhao02@std.uestc.edu.cn
+website: hxwork.github.io
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 # twitter_username: facespics
-github_username:  hedlen
+github_username:  hxwork
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jameswgrant
-# linkedin_username: Ting Jiang
+# linkedin_username: balazssandor
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -33,7 +33,10 @@ github_username:  hedlen
 additional_links:
 - title: google scholar
   icon: fab fa-google
-  url: https://scholar.google.com/citations?user=vwVneW4AAAAJ&hl=zh-CN
+  url: https://scholar.google.com.hk/citations?user=M7qfdFwAAAAJ&hl=zh-CN&oi=sra
+- title: another link
+  icon: fas fa-envelope
+  url: https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=xuhao02@std.uestc.edu.cn
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -46,11 +49,11 @@ about_title: Biography
 about_profile_image: images/white_bg.png
 about_content: | # this will include new lines to allow paragraphs
   I am a third-year graduate student of machine learning and computer vision under the supervision of 
-  [Prof. Yiming Pi](https://www.researchgate.net/scientific-contributions/Yiming-Pi-13739828) and 
-  [Prof. Zongjie Cao](https://www.researchgate.net/scientific-contributions/Zongjie-Cao-33269443) at University of Electronic Science and Technology of China (UESTC). 
-  Meanwhile, I start my internship at SenseTime and Megvii Research since 2018. I am a Full time computer vision researcher at present. My research interests include Face recognition and detection, 
-  Model compress, Autonomous driving, High dynaimc range image etc.
-
+  [Prof. Guanghui LIU](https://scholar.google.com.hk/citations?user=AjfD95EAAAAJ&hl=zh-CN&oi=ao) and 
+  [Prof. Shuaicheng LIU](http://www.liushuaicheng.org/) at University of Electronic Science and Technology of China (UESTC). 
+  Meanwhile, I start my internship at Megvii Research since 2018. My research interests include 3D registration, 
+  3D point cloud representation, 2D image processing, etc.
+  
 content:
   - title: Education & Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -131,101 +134,17 @@ content:
         video_path: images/DMS_smoke_demo1.mp4
         video_path1: images/DMS_smoke_demo2.mp4
         video_path2: images/DMS_phone_demo.mp4
-        
-# content:
-#   - title: Education & Experience # Title for the section
-#     layout: list # Type of content section (list/text)
-#     content:
-#       - layout: left
-#         title: USC
-#         # link: bmwgroup.com
-#         # link_text: bmwgroup.com
-#         # sub_title:  
-#         caption: Sept. 2011 - Jul. 2015
-#         description: | # this will include new lines to allow paragraphs
-#             ## **BSc in Electronic Information Engineering**
-#             <mark>Thesis</mark> Electronic circuit system.
 
-#       - layout: left
-#         title: UESTC
-#         # link: grubhub.com
-#         # link_text: grubhub.com
-#         # sub_title: 
-#         caption: Sept. 2016 - Jul. 2019
-#         description: | # this will include new lines to allow paragraphs
-#             ## **MEng in Information and Communication Engineering**
-#             <mark>Thesis</mark> Target recognition, Target detection, Model compression.
-            
-#       - layout: left
-#         title: SenseTime
-#         # link: www.msg.group
-#         # link_text: msg.group
-#         # sub_title: 
-#         caption: May. 2018 - Dec. 2018
-#         description: | # this will include new lines to allow paragraphs
-#           ## **Algorithm Researcher (Intern)**
-#           <mark>Feilds</mark> Face recognition and detection, Image and video retrieval.
+      - layout: left
+        title: NIO Gaze Estimation 
+        caption: Jul. 2019 - Mar. 2020
+        sub_title: Major member
+        description: | # this will include new lines to allow paragraphs
+          I am responsible for designing a light-weighted end-to-end network running on an onboard chip to estimate gaze and detect eye closure 
+          and occlusion at the same time. Participated in the overall pipeline of algorithm development, including data collection, 
+          data cleaning, algorithm development, and upgrading.
+        img_path: images/HDR.png
 
-#       - layout: left
-#         title: Megvii Research
-#         # link: www.msg.group
-#         # link_text: msg.group
-#         # sub_title: 
-#         caption: Dec. 2018 - Jul. 2019
-#         description: | # this will include new lines to allow paragraphs
-#           ## **Algorithm Researcher (Intern)**
-#           <mark>Feilds</mark> Autonomous driving, Intelligent cockpit, Behavior detection.
-
-#       - layout: left
-#         title: Megvii Research
-#         # link: www.msg.group
-#         # link_text: msg.group
-#         # sub_title: 
-#         caption: Jul. 2019 - Present
-#         description: | # this will include new lines to allow paragraphs
-#           ## **Algorithm Researcher(FTE)**
-#           <mark>Feilds</mark> Computer graphics, High dynamic range image(HDR).
-
-#   - title: Projects # Title for the section
-#     layout: list # Type of content section (list/text)
-#     content:
-#       - layout: left
-#         title: Driver Monitor System
-#         caption: Dec. 2018 - Jul. 2019
-#         sub_title: Algorithm Leader
-#         description: | # this will include new lines to allow paragraphs
-#           I am responsible for designing a light-weighted end-to-end network running on an onboard chip to detect smoking, phoning, 
-#           and drinking in driving. Participated in the overall pipeline of algorithm development, including data collection, 
-#           data cleaning, algorithm development, and upgrading.
-#         video_path: images/DMS_smoke_demo1.mp4
-#         video_path1: images/DMS_smoke_demo2.mp4
-#         video_path2: images/DMS_phone_demo.mp4
-
-#       - layout: left
-#         title: High dynaimc range image(YUV or RAW)
-#         caption: Jul. 2019 - Mar. 2020
-#         sub_title: Algorithm Leader
-#         description: | # this will include new lines to allow paragraphs
-#           As the algorithm leader, there are currently 10 members in the team. The main direction is related to computer graphics, 
-#           including HDR, image enhancement, noise reduction, image alignment, dark light brightening, ghosting, super-segmentation, etc.
-#         # video_path: images/gaze_demo.mp4
-#         image_path: images/HDR.png
-
-#   - title: Publications # Title for the section
-#     layout: list # Type of content section (list/text)
-#     content:
-#       - layout: left
-#         title: CVPR 2022
-#         # caption: 
-#         sub_title: <blue_mark>Under review</blue_mark>
-#         description: | # this will include new lines to allow paragraphs
-#           ## **HDRLUT: Unsupervised Learning 1D Lookup Tables for \\ High Dynamic Range Imaging**
-#           **Ting Jiang**, Chuan Wang, Xinpeng Li, Haoqiang Fan, Shuaicheng Liu 
-#           ![HDRLUT](./images/HDR.png)
-#           [[PDF](https://arxiv.org/pdf/2106.03479.pdf)]
-#           [[Github](https://github.com/Hedlen/HDRLUT)]
-#           [Video: [Youtube], [Bilibili]]
-#           [BibTex]
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
@@ -253,5 +172,3 @@ exclude : [
   "scripts/",
   "docker-compose.yml",
   ]
-
-theme: jekyll-theme-time-machine
