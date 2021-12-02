@@ -128,7 +128,7 @@ content:
           As the algorithm leader, there are currently 10 members in the team. The main direction is related to computer graphics, 
           including HDR, image enhancement, noise reduction, image alignment, dark light brightening, ghosting, super-segmentation, etc.
         # video_path: images/gaze_demo.mp4
-        image_path: images/HDR.png
+        # image_path: images/HDR.png
 
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
@@ -138,11 +138,11 @@ content:
         # caption: 
         sub_title: <blue_mark>Under review</blue_mark>
         description: | # this will include new lines to allow paragraphs
-          ## **FINet: Dual Branches Feature Interaction for Partial-to-Partial Point Cloud Registration**
+          ## **HDRLUT: Unsupervised Learning 1D Lookup Tables for \\ High Dynamic Range Imaging**
           **Ting Jiang**, Chuan Wang, Xinpeng Li, Haoqiang Fan, Shuaicheng Liu 
           ![FINet](./images/HDR.png)
           [[PDF](https://arxiv.org/pdf/2106.03479.pdf)]
-          [[Github](https://github.com/hxwork/FINet)]
+          [[Github](https://github.com/Hedlen/HDRLUT)]
           [Video: [Youtube], [Bilibili]]
           [BibTex]
 # Footer
