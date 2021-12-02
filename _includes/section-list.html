@@ -39,6 +39,10 @@
       <source src="{{item.video_path2}}" type="video/mp4">
     </video>
     {%- endif -%}
+    {%- if item.img_path -%}
+    <img src="{{item.img_path}}" width="281" height="211">
+    </img>
+    {%- endif -%}
   </div>
 </div>
 {% endfor %}

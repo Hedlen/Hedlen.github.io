@@ -64,7 +64,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             ## **BSc in Electronic Information Engineering**
             <mark>Thesis</mark> Electronic circuit system.
-            
+
       - layout: left
         title: UESTC
         # link: grubhub.com
@@ -128,7 +128,7 @@ content:
           As the algorithm leader, there are currently 10 members in the team. The main direction is related to computer graphics, 
           including HDR, image enhancement, noise reduction, image alignment, dark light brightening, ghosting, super-segmentation, etc.
         # video_path: images/gaze_demo.mp4
-        # image_path: images/HDR.png
+        image_path: images/HDR.png
 
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
