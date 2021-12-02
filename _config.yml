@@ -159,3 +159,5 @@ exclude : [
   "scripts/",
   "docker-compose.yml",
   ]
+
+theme: jekyll-theme-leap-day
