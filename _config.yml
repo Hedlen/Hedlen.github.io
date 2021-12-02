@@ -6,17 +6,17 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Hao Xu
-title: 2D & 3D Vision 
-email: xuhao02@std.uestc.edu.cn
-website: hxwork.github.io
+name: Ting Jiang
+title: Computer Vision & Computer Graphics
+email: tjhedlen@gmail.com
+website: tjwork.github.io
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
 # twitter_username: facespics
-github_username:  hxwork
+github_username:  tjwork
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -33,10 +33,7 @@ github_username:  hxwork
 additional_links:
 - title: google scholar
   icon: fab fa-google
-  url: https://scholar.google.com.hk/citations?user=M7qfdFwAAAAJ&hl=zh-CN&oi=sra
-- title: another link
-  icon: fas fa-envelope
-  url: https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=xuhao02@std.uestc.edu.cn
+  url: https://scholar.google.com/citations?user=vwVneW4AAAAJ&hl=zh-CN
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
