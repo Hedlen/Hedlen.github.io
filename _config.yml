@@ -130,6 +130,21 @@ content:
         # video_path: images/gaze_demo.mp4
         image_path: images/HDR.png
 
+  - title: Publications # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: CVPR 2022
+        # caption: 
+        sub_title: <blue_mark>Under review</blue_mark>
+        description: | # this will include new lines to allow paragraphs
+          ## **FINet: Dual Branches Feature Interaction for Partial-to-Partial Point Cloud Registration**
+          **Ting Jiang**, Chuan Wang, Xinpeng Li, Haoqiang Fan, Shuaicheng Liu 
+          ![FINet](./images/HDR.png)
+          [[PDF](https://arxiv.org/pdf/2106.03479.pdf)]
+          [[Github](https://github.com/hxwork/FINet)]
+          [Video: [Youtube], [Bilibili]]
+          [BibTex]
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
