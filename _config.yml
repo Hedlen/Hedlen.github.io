@@ -49,10 +49,10 @@ about_title: Biography
 about_profile_image: images/white_bg.png
 about_content: | # this will include new lines to allow paragraphs
   I am a third-year graduate student of machine learning and computer vision under the supervision of 
-  [Prof. Guanghui LIU](https://scholar.google.com.hk/citations?user=AjfD95EAAAAJ&hl=zh-CN&oi=ao) and 
-  [Prof. Shuaicheng LIU](http://www.liushuaicheng.org/) at University of Electronic Science and Technology of China (UESTC). 
-  Meanwhile, I start my internship at Megvii Research since 2018. My research interests include 3D registration, 
-  3D point cloud representation, 2D image processing, etc.
+  [Prof. Yiming Pi](https://www.researchgate.net/scientific-contributions/Yiming-Pi-13739828) and 
+  [Prof. Zongjie Cao](https://www.researchgate.net/scientific-contributions/Zongjie-Cao-33269443) at University of Electronic Science and Technology of China (UESTC). 
+  Meanwhile, I start my internship at SenseTime and Megvii Research since 2018. I am a Full time computer vision researcher at present in MEGVII. My research interests include Face recognition and detection, 
+  Model compress, Autonomous driving, High dynaimc range image etc.
   
 content:
   - title: Education & Experience # Title for the section
@@ -64,62 +64,74 @@ content:
         # link: grubhub.com
         # link_text: grubhub.com
         # sub_title: 
-        caption: Sept. 2019 - Present
+        caption: Sept. 2016 - Jul. 2019
         description: | # this will include new lines to allow paragraphs
             ## **University of Electronic Science and Technology of China (UESTC)**
             Information and Communication Engineering <br />
-            <mark>Thesis</mark> Deep learning-based 3D point cloud registration.
+            <mark>Thesis</mark> arget recognition, Target detection, Model compression.
+      
       - layout: left
         title: B.E.
         # link: bmwgroup.com
         # link_text: bmwgroup.com
         # sub_title:  
-        caption: Sept. 2015 - Jul. 2019
+        caption: Sept. 2011 - Jul. 2015
         description: | # this will include new lines to allow paragraphs
             
-            ## **Sichuan University (SCU)**
+            ## **University of South China (USC)**
             Electronic Information Engineering <br />
-            <mark>Thesis</mark> GAN-based image reflection removal.            
-            
+            <mark>Thesis</mark> Electronic circuit system. 
+                     
       - layout: left
         title: Internship
         # link: www.msg.group
         # link_text: msg.group
         # sub_title: 
-        caption: Dec. 2018 - Present
+        caption: May. 2018 - Dec. 2018
+        description: | # this will include new lines to allow paragraphs
+          ## **SenseTime Research**
+          Intern <br />
+          <mark>Feilds</mark> Face recognition and detection, Image and video retrieval.
+
+      - layout: left
+        title: Internship
+        # link: www.msg.group
+        # link_text: msg.group
+        # sub_title: 
+        caption:  Dec. 2018 - Jul. 2019
         description: | # this will include new lines to allow paragraphs
           ## **Megvii Research**
           Intern <br />
-          <mark>Feilds</mark> Behavior detection, gaze estimation and 3D point cloud registration.
+          <mark>Feilds</mark>  Autonomous driving, Intelligent cockpit, Behavior detection.
+      
+      - layout: left
+        title: Full-time employee（FTE）
+        # link: www.msg.group
+        # link_text: msg.group
+        # sub_title: 
+        caption:  Jul. 2019 - Present
+        description: | # this will include new lines to allow paragraphs
+          ## **Megvii Research**
+          Intern <br />
+          <mark>Feilds</mark>  Computer graphics, High dynamic range image(HDR), etc.
             
   - title: Publications # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: ICCV 2021
-        # caption: 
-        sub_title: <green_mark>Accepted</green_mark>
-        description: | # this will include new lines to allow paragraphs
-          ## **OMNet: Learning Overlapping Mask for Partial-to-Partial Point Cloud Registration**
-          
-          **Hao Xu**, Shuaicheng Liu, Guangfu Wang, Guanghui Liu, Bing Zeng 
-          ![OMNet](./images/OMNet.png)
-          [[PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_OMNet_Learning_Overlapping_Mask_for_Partial-to-Partial_Point_Cloud_Registration_ICCV_2021_paper.pdf)]
-          [Github: [Pytorch](https://github.com/hxwork/OMNet), [MegEngine](https://github.com/megvii-research/OMNet)]
-          [Video: [Youtube](https://www.youtube.com/watch?v=u2lTKsom8oU), [Bilibili](https://www.bilibili.com/video/BV1Ef4y1J7XP/)]
-          [BibTex]
-      - layout: left
-        title: AAAI 2022
-        # caption: 
-        sub_title: <green_mark>Accepted</green_mark>
-        description: | # this will include new lines to allow paragraphs
-          ## **FINet: Dual Branches Feature Interaction for Partial-to-Partial Point Cloud Registration**
-          **Hao Xu**, Nianjin Ye, Shuaicheng Liu, Guanghui Liu, Bing Zeng 
-          ![FINet](./images/FINet.png)
-          [[PDF](https://arxiv.org/pdf/2106.03479.pdf)]
-          [[Github](https://github.com/hxwork/FINet)]
-          [Video: [Youtube], [Bilibili]]
-          [BibTex]
+  layout: list # Type of content section (list/text)
+  content:
+    - layout: left
+      title: CVPR 2022
+      # caption: 
+      sub_title: <blue_mark>Under review</blue_mark>
+      description: | # this will include new lines to allow paragraphs
+        ## **HDRLUT: Unsupervised Learning 1D Lookup Tables for \\ High Dynamic Range Imaging**
+        **Ting Jiang**, Chuan Wang, Xinpeng Li, Haoqiang Fan, Shuaicheng Liu 
+        ![HDRLUT](./images/HDR.png)
+        [[PDF](https://arxiv.org/pdf/2106.pdf)]
+        [[Github](https://github.com/Hedlen/HDRLUT)]
+        [Video: []]
+        [BibTex]
+        
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -136,14 +148,13 @@ content:
         video_path2: images/DMS_phone_demo.mp4
 
       - layout: left
-        title: NIO Gaze Estimation 
+        title: High dynaimc range image(YUV or RAW)
         caption: Jul. 2019 - Mar. 2020
-        sub_title: Major member
+        sub_title: Algorithm Leader
         description: | # this will include new lines to allow paragraphs
-          I am responsible for designing a light-weighted end-to-end network running on an onboard chip to estimate gaze and detect eye closure 
-          and occlusion at the same time. Participated in the overall pipeline of algorithm development, including data collection, 
-          data cleaning, algorithm development, and upgrading.
-        img_path: images/HDR.png
+          As the algorithm leader, there are currently 10 members in the team. The main direction is related to computer graphics, 
+          including HDR, image enhancement, noise reduction, image alignment, dark light brightening, ghosting, super-segmentation, etc.
+        image_path: images/HDR.png
 
 # Footer
 footer_show_references: true
