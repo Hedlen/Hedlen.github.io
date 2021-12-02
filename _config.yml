@@ -54,8 +54,7 @@ about_content: | # this will include new lines to allow paragraphs
 content:
   - title: Education & Experience # Title for the section
     layout: list # Type of content section (list/text)
-    content:
-                
+    content:      
       - layout: left
         title: M.Sc.
         # link: grubhub.com
@@ -113,20 +112,20 @@ content:
           <mark>Feilds</mark>  Computer graphics, High dynamic range image(HDR), etc.
             
   - title: Publications # Title for the section
-  layout: list # Type of content section (list/text)
-  content:
-    - layout: left
-      title: CVPR 2022
-      # caption: 
-      sub_title: <blue_mark>Under review</blue_mark>
-      description: | # this will include new lines to allow paragraphs
-        ## **HDRLUT: Unsupervised Learning 1D Lookup Tables for \\ High Dynamic Range Imaging**
-        **Ting Jiang**, Chuan Wang, Xinpeng Li, Haoqiang Fan, Shuaicheng Liu 
-        ![HDRLUT](./images/HDR.png)
-        [[PDF](https://arxiv.org/pdf/2106.pdf)]
-        [[Github](https://github.com/Hedlen/HDRLUT)]
-        [Video: []]
-        [BibTex]
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: CVPR 2022
+        # caption: 
+        sub_title: <blue_mark>Under review</blue_mark>
+        description: | # this will include new lines to allow paragraphs
+          ## **HDRLUT: Unsupervised Learning 1D Lookup Tables for \\ High Dynamic Range Imaging**
+          **Ting Jiang**, Chuan Wang, Xinpeng Li, Haoqiang Fan, Shuaicheng Liu 
+          ![HDRLUT](./images/HDR.png)
+          [[PDF](https://arxiv.org/pdf/2106.pdf)]
+          [[Github](https://github.com/Hedlen/HDRLUT)]
+          [Video: []]
+          [BibTex]
         
 
   - title: Projects # Title for the section
