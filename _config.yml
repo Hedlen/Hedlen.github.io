@@ -158,4 +158,4 @@ exclude : [
   "docker-compose.yml",
   ]
 
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-time-machine
