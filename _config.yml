@@ -46,10 +46,10 @@ about_title: Biography
 about_profile_image: images/white_bg.png
 about_content: | # this will include new lines to allow paragraphs
   I am a third-year graduate student of machine learning and computer vision under the supervision of 
-  [Prof. Guanghui LIU](https://scholar.google.com.hk/citations?user=AjfD95EAAAAJ&hl=zh-CN&oi=ao) and 
-  [Prof. Shuaicheng LIU](http://www.liushuaicheng.org/) at University of Electronic Science and Technology of China (UESTC). 
-  Meanwhile, I start my internship at Megvii Research since 2018. My research interests include 3D registration, 
-  3D point cloud representation, 2D image processing, etc.
+  [Prof. Yiming Pi](https://www.researchgate.net/scientific-contributions/Yiming-Pi-13739828) and 
+  [Prof. Zongjie Cao](https://www.researchgate.net/scientific-contributions/Zongjie-Cao-33269443) at University of Electronic Science and Technology of China (UESTC). 
+  Meanwhile, I start my internship at SenseTime and Megvii Research since 2018. I am a Full time computer vision researcher at present. My research interests include Face recognition and detection, 
+  Model compress, Autonomous driving, High dynaimc range image etc.
   
 content:
   - title: Education & Experience # Title for the section
