@@ -48,8 +48,7 @@ about_content: | # this will include new lines to allow paragraphs
   I am currently a graduate student in machine learning and computer vision under the supervision of 
   [Prof. Yiming Pi](https://www.researchgate.net/scientific-contributions/Yiming-Pi-13739828) and 
   [Prof. Zongjie Cao](https://www.researchgate.net/scientific-contributions/Zongjie-Cao-33269443) at University of Electronic Science and Technology of China (UESTC). 
-  Meanwhile, I start my internship at SenseTime under the supervision of [Zhanghui Kuang](https://scholar.google.com/citations?hl=zh-CN&user=z4wkHDgAAAAJ) and Megvii Research under the supervision of [Prof. Shuaicheng Liu](http://www.liushuaicheng.org/) since 2018. I am a Full time computer vision researcher at present in MEGVII. My research interests include Face recognition and detection, 
-  Autonomous driving, Model compress, High dynaimc range image etc.
+  During in internship, i was luckily mentored by [Dr.Zhanghui Kuang](https://scholar.google.com/citations?hl=zh-CN&user=z4wkHDgAAAAJ) at SenseTime and [Prof. Shuaicheng Liu](http://www.liushuaicheng.org/), [Dr.Jue Wang](https://juew.org/) at Megvii Research since 2018. I am a Full time computer vision researcher at present in MEGVII. My research interests include Computer Vision & Computer Graphics.
   
 content:
   - title: Education & Experience # Title for the section
@@ -109,7 +108,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           ## **Megvii Research**
           Intern <br />
-          <mark>Feilds</mark>  Computer graphics, High dynamic range image(HDR), etc.
+          <mark>Feilds</mark>  Computer graphics, High dynamic range image(HDR) etc.
             
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
