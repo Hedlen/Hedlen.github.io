@@ -140,7 +140,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           ## **HDRLUT: Unsupervised Learning 1D Lookup Tables for \\ High Dynamic Range Imaging**
           **Ting Jiang**, Chuan Wang, Xinpeng Li, Haoqiang Fan, Shuaicheng Liu 
-          ![FINet](./images/HDR.png)
+          ![HDRLUT](./images/HDR.png)
           [[PDF](https://arxiv.org/pdf/2106.03479.pdf)]
           [[Github](https://github.com/Hedlen/HDRLUT)]
           [Video: [Youtube], [Bilibili]]
