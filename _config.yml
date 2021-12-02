@@ -45,11 +45,11 @@ additional_links:
 about_title: Biography
 about_profile_image: images/white_bg.png
 about_content: | # this will include new lines to allow paragraphs
-  I am a third-year graduate student of machine learning and computer vision under the supervision of 
+  I am currently a graduate student in machine learning and computer vision under the supervision of 
   [Prof. Yiming Pi](https://www.researchgate.net/scientific-contributions/Yiming-Pi-13739828) and 
   [Prof. Zongjie Cao](https://www.researchgate.net/scientific-contributions/Zongjie-Cao-33269443) at University of Electronic Science and Technology of China (UESTC). 
-  Meanwhile, I start my internship at SenseTime and Megvii Research since 2018. I am a Full time computer vision researcher at present in MEGVII. My research interests include Face recognition and detection, 
-  Model compress, Autonomous driving, High dynaimc range image etc.
+  Meanwhile, I start my internship at SenseTime under the supervision of [Zhanghui Kuang](https://scholar.google.com/citations?hl=zh-CN&user=z4wkHDgAAAAJ) and Megvii Research under the supervision of [Prof. Shuaicheng Liu](http://www.liushuaicheng.org/) since 2018. I am a Full time computer vision researcher at present in MEGVII. My research interests include Face recognition and detection, 
+  Autonomous driving, Model compress, High dynaimc range image etc.
   
 content:
   - title: Education & Experience # Title for the section
@@ -121,12 +121,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           ## **HDRLUT: Unsupervised Learning 1D Lookup Tables for \\ High Dynamic Range Imaging**
           **Ting Jiang**, Chuan Wang, Xinpeng Li, Haoqiang Fan, Shuaicheng Liu 
-          ![Traing & Testing](./images/hdrlut1.png)
-          ![LUT Gen](./images/hdrlut2.png)
-          [[PDF](https://arxiv.org/pdf/2106.pdf)]
-          [[Github](https://github.com/Hedlen/HDRLUT)]
-          [Video: []]
-          [BibTex]
         
 
   - title: Projects # Title for the section
