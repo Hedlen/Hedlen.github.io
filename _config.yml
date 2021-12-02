@@ -66,13 +66,12 @@ content:
             ## **BSc in Electronic Information Engineering**
             <mark>Thesis</mark> Electronic circuit system.
             
-            
       - layout: left
         title: UESTC
         # link: grubhub.com
         # link_text: grubhub.com
         # sub_title: 
-        caption: Sept. 2016- Jul. 2019
+        caption: Sept. 2016 - Jul. 2019
         description: | # this will include new lines to allow paragraphs
             ## **MEng in Information and Communication Engineering**
             <mark>Thesis</mark> Target recognition, Target detection, Model compression.
