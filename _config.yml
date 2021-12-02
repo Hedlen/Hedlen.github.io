@@ -150,7 +150,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           As the algorithm leader, there are currently 10 members in the team. The main direction is related to computer graphics, 
           including HDR, image enhancement, noise reduction, image alignment, dark light brightening, ghosting, super-segmentation, etc.
-        image_path: images/HDR.png
+        img_path: images/HDR.png
 
 # Footer
 footer_show_references: true
