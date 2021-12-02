@@ -180,4 +180,4 @@ exclude : [
   "scripts/",
   "docker-compose.yml",
   ]
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-architect
