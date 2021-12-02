@@ -64,7 +64,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             ## **University of Electronic Science and Technology of China (UESTC)**
             Information and Communication Engineering <br />
-            <mark>Thesis</mark> arget recognition, Target detection, Model compression.
+            <mark>Thesis</mark> Target recognition, Target detection, Model compression.
       
       - layout: left
         title: B.E.
@@ -121,7 +121,8 @@ content:
         description: | # this will include new lines to allow paragraphs
           ## **HDRLUT: Unsupervised Learning 1D Lookup Tables for \\ High Dynamic Range Imaging**
           **Ting Jiang**, Chuan Wang, Xinpeng Li, Haoqiang Fan, Shuaicheng Liu 
-          ![HDRLUT](./images/HDR.png)
+          ![Traing & Testing](./images/hdrlut1.png)
+          ![LUT Gen](./images/hdrlut2.png)
           [[PDF](https://arxiv.org/pdf/2106.pdf)]
           [[Github](https://github.com/Hedlen/HDRLUT)]
           [Video: []]
