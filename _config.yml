@@ -12,7 +12,7 @@ email: tjhedlen@gmail.com
 website: hedlen.github.io
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 # twitter_username: facespics
@@ -22,7 +22,7 @@ github_username:  hedlen
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jameswgrant
-linkedin_username: Ting Jiang
+# linkedin_username: Ting Jiang
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -62,7 +62,6 @@ content:
         # sub_title:  
         caption: Sept. 2011 - Jul. 2015
         description: | # this will include new lines to allow paragraphs
-            
             ## **BSc in Electronic Information Engineering**
             <mark>Thesis</mark> Electronic circuit system.
             
