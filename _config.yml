@@ -45,10 +45,10 @@ additional_links:
 about_title: Biography
 about_profile_image: images/white_bg.png
 about_content: | # this will include new lines to allow paragraphs
-  I am currently a graduate student in machine learning and computer vision under the supervision of 
+  I received my Master degree at Information and Communication Engineering in University of Electronic Science and Technology of China (UESTC), supervised by 
   [Prof. Yiming Pi](https://www.researchgate.net/scientific-contributions/Yiming-Pi-13739828) and 
-  [Prof. Zongjie Cao](https://www.researchgate.net/scientific-contributions/Zongjie-Cao-33269443) at University of Electronic Science and Technology of China (UESTC). 
-  During in internship, i was luckily mentored by [Dr. Zhanghui Kuang](https://scholar.google.com/citations?hl=zh-CN&user=z4wkHDgAAAAJ) at SenseTime and [Prof. Shuaicheng Liu](http://www.liushuaicheng.org/), [Dr. Jue Wang](https://juew.org/) at Megvii Research since 2018. I am a Full time computer vision researcher at present in MEGVII. My research interests include Computer Vision & Computer Graphics.
+  [Prof. Zongjie Cao](https://www.researchgate.net/scientific-contributions/Zongjie-Cao-33269443), in 2019. I obtained my Bachelor degree at Electronic Information Engineering in University of South China (USC) in 2015.
+  During in internship, i was luckily mentored by [Dr. Zhanghui Kuang](https://scholar.google.com/citations?hl=zh-CN&user=z4wkHDgAAAAJ) at SenseTime and [Prof. Shuaicheng Liu](http://www.liushuaicheng.org/), [Dr. Jue Wang](https://juew.org/) at MEGVII Research since 2018. I am a Full time computer vision researcher at present in MEGVII Research. My research interests include Computer Vision & Computer Graphics.
   
 content:
   - title: Education & Experience # Title for the section
@@ -160,8 +160,8 @@ content:
         video_path2: images/DMS_phone_demo.mp4
 
       - layout: left
-        title: High dynaimc range image(YUV or RAW)
-        caption: Jul. 2019 - Mar. 2020
+        title: High dynaimc range image
+        caption: Jul. 2019 - Present
         sub_title: Algorithm Leader
         description: | # this will include new lines to allow paragraphs
           As the algorithm leader, there are currently 10 members in the team. The main direction is related to computer graphics, 
