@@ -9,7 +9,7 @@ version: 2
 name: Ting Jiang
 title: Computer Vision & Computer Graphics
 email: tjhedlen@gmail.com
-website: hedlen.github.io
+website: https://github.com/Hedlen
 
 # Dark Mode (true/false/never)
 darkmode: false
