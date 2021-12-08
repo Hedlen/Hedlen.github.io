@@ -120,6 +120,14 @@ content:
         description: | # this will include new lines to allow paragraphs
           ## **HDRLUT: Unsupervised Learning 1D Lookup Tables for High Dynamic Range Imaging**
           **Ting Jiang**, Chuan Wang, Xinpeng Li, Haoqiang Fan, Shuaicheng Liu
+      
+      - layout: left
+        title: TIP 2022
+        # caption: 
+        sub_title: <blue_mark>Under review</blue_mark>
+        description: | # this will include new lines to allow paragraphs
+          ## **Efficient Neural Architecture Search via firefly optimization for SAR ship detection**
+          Jielei Wang, **Ting Jiang**, Zongyong Cui, Changjie Cao, Zongjie Cao
 
       - layout: left
         title: CVPRW 2021
@@ -142,6 +150,27 @@ content:
           Jielei Wang, **Ting Jiang**, Zongyong Cui, Zongjie Cao  
           [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S092523122101078X)]
           [[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:W5Y6IjacCXMJ:scholar.google.com/&output=citation&scisdr=CgX7dAiIEPLblS6f6f0:AAGBfm0AAAAAYaiZ8f3mBG7uSNMy8SQbSmkDPpRR3XC3&scisig=AAGBfm0AAAAAYaiZ8Ws0rRq80UAZsZNInzQYHjniOy4y&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
+      
+      - layout: left
+        title: IGARSS 2018
+        # caption: 
+        sub_title: <blue_mark>Accepted</blue_mark>
+        description: | # this will include new lines to allow paragraphs
+          ## **Data augmentation with Gabor filter in deep convolutional neural networks for SAR target recognition**
+          **Ting Jiang**, Zongyong Cui, Zhi Zhou, Zongjie Cao  
+          [[PDF](https://sci-hub.se/https://ieeexplore.ieee.org/document/8518792)]
+          [[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:HRfCTYzKoHEJ:scholar.google.com/&output=citation&scisdr=CgX3wfUqEPLblTZ_Te4:AAGBfm0AAAAAYbB5Ve7zKKgIjF-o89gQhHd_TF32yaLA&scisig=AAGBfm0AAAAAYbB5VVN2mVrRg7Mctytlrqk1zDiJZ6Q4&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
+      
+      - layout: left
+        title: IGARSS 2018
+        # caption: 
+        sub_title: <blue_mark>Accepted</blue_mark>
+        description: | # this will include new lines to allow paragraphs
+          ## **Adaptive Weighted Multi-Task Sparse Representation Classification in SAR Image Recognition**
+          Zhi Zhou, Zongjie Cao, Yiming Pi, **Ting Jiang**  
+          [[PDF](https://sci-hub.se/10.1109/igarss.2018.8519004)]
+          [[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:f_rOmrAJfqoJ:scholar.google.com/&output=citation&scisdr=CgX3wfUqEPLblTZ_1A4:AAGBfm0AAAAAYbB5zA7JsuImgF6RjVMo4zr94VpXrOVu&scisig=AAGBfm0AAAAAYbB5zC7GmB-jc-_X80TEdD3WwGNkLsfp&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
+
       
 
   - title: Projects # Title for the section
@@ -167,6 +196,8 @@ content:
           As the algorithm leader, there are currently 10 members in the team. The main direction is related to computer graphics, 
           including HDR, image enhancement, noise reduction, image alignment, dark light brightening, ghosting, super-segmentation, etc.
         img_path: images/HDR.png
+        img_path1: images/HDR1.png
+        img_path2: images/HDR2.png
 
 # Footer
 footer_show_references: true
