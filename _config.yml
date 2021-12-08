@@ -200,7 +200,17 @@ content:
         img_path1: images/HDR1.png
         img_path2: images/HDR2.png
 
-        - layout: left
+      - layout: left
+        title: Super night view
+        caption: Jul. 2019 - Present
+        sub_title: Algorithm Leader
+        description: | # this will include new lines to allow paragraphs
+          Hand-held super night scene, improve night scene brightness, clarity, noise, dynamic range and other performance.
+        img_path: images/y.png
+        img_path1: images/y1.png
+        img_path2: images/y2.png
+
+      - layout: left
         title: Portrait beauty
         caption: Jul. 2019 - Present
         sub_title: Algorithm Leader
