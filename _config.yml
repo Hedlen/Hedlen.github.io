@@ -205,21 +205,21 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: NTIRE 2021 High Dynamic Range Challenge - Track 2 Multiple Frames
+        title: NTIRE 2021 High Dynamic Range Challenge (Track 2 Multiple Frames)
         # caption: 
         sub_title: <blue_mark>Winner</blue_mark>
         description: | # this will include new lines to allow paragraphs
           ## The task of recovering an HDR image from one or multiple input Low Dynamic Range (LDR) images that are affected by noise, quantization errors, and might suffer from  over- and under-exposed regions due to the sensor limitations.
         
       - layout: left
-        title: NTIRE 2022 High Dynamic Range Challenge - Track 1 Fidelity (low-complexity constrain)
+        title: NTIRE 2022 High Dynamic Range Challenge (Track 1 Fidelity (low-complexity constrain))
         # caption: 
         sub_title: <blue_mark>Eighth</blue_mark>
         description: | # this will include new lines to allow paragraphs
           ## the task of recovering an HDR image from one or multiple input Low Dynamic Range (LDR) images that are affected by noise, quantization errors, and might suffer from  over- and under-exposed regions due to the sensor limitations. All models submitted to this track are required to process each input image set in under 200GMAccs (1 MAcc = 2 Flops), and this number should include all operations performed (e.g. test-time augmentations, pre- and post-processing). 
       
-       - layout: left
-        title: NTIRE 2022 High Dynamic Range Challenge - Track 2 Low-complexity (fidelity constrain)
+      - layout: left
+        title: NTIRE 2022 High Dynamic Range Challenge (Track 2 Low-complexity (fidelity constrain))
         # caption: 
         sub_title: <blue_mark>Fifth</blue_mark>
         description: | # this will include new lines to allow paragraphs
