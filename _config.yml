@@ -53,7 +53,51 @@ about_content: | # this will include new lines to allow paragraphs
 content:
   - title: Education & Experience # Title for the section
     layout: list # Type of content section (list/text)
-    content:      
+    content:                       
+      - layout: left
+        title: Technical Director
+        # link: www.msg.group
+        # link_text: msg.group
+        # sub_title: 
+        caption:  Mar. 2019 - Present
+        description: | # this will include new lines to allow paragraphs
+          ## **Megvii Research**
+          Team Leader <br />
+          <mark>Feilds</mark> Responsible for the research and project delivery of image enhancement algorithms, research and project directions include image or video HDR and other super quality, image or video enhancement or super-resolution, super night scene, noise reduction, alignment, beauty, dual-camera blur, ISP, IQA, etc. At present, the team has 10 FTE and several interns.
+      
+      - layout: left
+        title: Internship
+        # link: www.msg.group
+        # link_text: msg.group
+        # sub_title: 
+        caption:  Mar. 2019 - Mar. 2020
+        description: | # this will include new lines to allow paragraphs
+          ## **Megvii Research**
+          Intern <br />
+          <mark>Feilds</mark>  Responsible for model compression related algorithm research, research direction involves model distillation, pruning, quantization, model search, etc.
+
+      - layout: left
+        title: Internship
+        # link: www.msg.group
+        # link_text: msg.group
+        # sub_title: 
+        caption:  Dec. 2018 - Mar. 2019
+        description: | # this will include new lines to allow paragraphs
+          ## **Megvii Research**
+          Intern <br />
+          <mark>Feilds</mark>  Autonomous driving, Intelligent cockpit, Behavior detection.
+      
+      - layout: left
+        title: Internship
+        # link: www.msg.group
+        # link_text: msg.group
+        # sub_title: 
+        caption: May. 2018 - Dec. 2018
+        description: | # this will include new lines to allow paragraphs
+          ## **SenseTime Research**
+          Intern <br />
+          <mark>Feilds</mark> Face recognition and detection, Image and video retrieval.
+      
       - layout: left
         title: M.Sc.
         # link: grubhub.com
@@ -76,50 +120,24 @@ content:
             ## **University of South China (USC)**
             Electronic Information Engineering <br />
             <mark>Thesis</mark> Electronic circuit system. 
-                     
-      - layout: left
-        title: Internship
-        # link: www.msg.group
-        # link_text: msg.group
-        # sub_title: 
-        caption: May. 2018 - Dec. 2018
-        description: | # this will include new lines to allow paragraphs
-          ## **SenseTime Research**
-          Intern <br />
-          <mark>Feilds</mark> Face recognition and detection, Image and video retrieval.
 
-      - layout: left
-        title: Internship
-        # link: www.msg.group
-        # link_text: msg.group
-        # sub_title: 
-        caption:  Dec. 2018 - Jul. 2019
-        description: | # this will include new lines to allow paragraphs
-          ## **Megvii Research**
-          Intern <br />
-          <mark>Feilds</mark>  Autonomous driving, Intelligent cockpit, Behavior detection.
-      
-      - layout: left
-        title: Researcher
-        # link: www.msg.group
-        # link_text: msg.group
-        # sub_title: 
-        caption:  Jul. 2019 - Present
-        description: | # this will include new lines to allow paragraphs
-          ## **Megvii Research**
-          Algorithm Leader <br />
-          <mark>Feilds</mark> There are currently 10 members in the team. The main direction is related to computer graphics, 
-          including High dynamic range image, Image enhancement, Noise reduction, Image alignment, Deghosting, Super-resolution etc.
-            
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: CVPR 2022
+        title: NIPS 2022
         # caption: 
         sub_title: <blue_mark>Under review</blue_mark>
         description: | # this will include new lines to allow paragraphs
-          ## **HDRLUT: Unsupervised Learning 1D Lookup Tables for High Dynamic Range Imaging**
+          ## **Absorption Pruning Algorithm of Deep Neural Network for Object Detection in Remote Sensing Imagery**
+          Jielei Wang, **Ting Jiang**, Zongyong Cui, Zongjie Cao
+
+      - layout: left
+        title: ECCV 2022
+        # caption: 
+        sub_title: <blue_mark>Under review</blue_mark>
+        description: | # this will include new lines to allow paragraphs
+          ## **MEFLUT: Unsupervised Learning 1D Lookup Tables for Multi-exposure Image Fusion**
           **Ting Jiang**, Chuan Wang, Xinpeng Li, Haoqiang Fan, Shuaicheng Liu
       
       - layout: left
@@ -135,7 +153,7 @@ content:
         # caption: 
         sub_title: <blue_mark>Accepted, The winning method of the first edition of NTIRE2021 Multi-Frame HDR Challenge</blue_mark>
         description: | # this will include new lines to allow paragraphs
-          ## **ADNet: Attention-guided deformable convolutional network for high dynamic range imaging**
+          ## **ADNet: Attention-guided Deformable Convolutional Network for High Dynamic Range Imaging**
           Zhen Liu, Wenjie Lin, Xinpeng Li, **Ting Jiang**, Mingyan Han, Qing Rao, Haoqiang Fan, Jian Sun, Shuaicheng Liu  
           [[PDF](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Liu_ADNet_Attention-Guided_Deformable_Convolutional_Network_for_High_Dynamic_Range_Imaging_CVPRW_2021_paper.pdf)]
           [[Github](https://github.com/liuzhen03/ADNet)]
@@ -147,17 +165,28 @@ content:
         # caption: 
         sub_title: <blue_mark>Accepted</blue_mark>
         description: | # this will include new lines to allow paragraphs
-          ## **Filter pruning with a feature map entropy importance criterion for convolution neural networks compressing**
+          ## **Filter Pruning with a Feature Map Entropy Importance Criterion for Convolution Neural Networks Compressing**
           Jielei Wang, **Ting Jiang**, Zongyong Cui, Zongjie Cao  
           [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S092523122101078X)]
           [[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:W5Y6IjacCXMJ:scholar.google.com/&output=citation&scisdr=CgX7dAiIEPLblS6f6f0:AAGBfm0AAAAAYaiZ8f3mBG7uSNMy8SQbSmkDPpRR3XC3&scisig=AAGBfm0AAAAAYaiZ8Ws0rRq80UAZsZNInzQYHjniOy4y&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
+      
+      
+      - layout: left
+        title: IGARSS 2022
+        # caption: 
+        sub_title: <blue_mark>Accepted</blue_mark>
+        description: | # this will include new lines to allow paragraphs
+          ## **A Knowledge Distillation Method Based on IQE Attention Mechanism for Target Recognition in Sar Imagery**
+          **Jielei Wang**, Ting Jiang, Zongyong Cui, Zongjie Cao, Changjie Cao 
+          # [[PDF](https://sci-hub.se/https://ieeexplore.ieee.org/document/8518792)]
+          # [[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:HRfCTYzKoHEJ:scholar.google.com/&output=citation&scisdr=CgX3wfUqEPLblTZ_Te4:AAGBfm0AAAAAYbB5Ve7zKKgIjF-o89gQhHd_TF32yaLA&scisig=AAGBfm0AAAAAYbB5VVN2mVrRg7Mctytlrqk1zDiJZ6Q4&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
       
       - layout: left
         title: IGARSS 2018
         # caption: 
         sub_title: <blue_mark>Accepted</blue_mark>
         description: | # this will include new lines to allow paragraphs
-          ## **Data augmentation with Gabor filter in deep convolutional neural networks for SAR target recognition**
+          ## **Data Augmentation with Gabor Filter in Deep Convolutional Neural Networks for SAR Target Recognition**
           **Ting Jiang**, Zongyong Cui, Zhi Zhou, Zongjie Cao  
           [[PDF](https://sci-hub.se/https://ieeexplore.ieee.org/document/8518792)]
           [[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:HRfCTYzKoHEJ:scholar.google.com/&output=citation&scisdr=CgX3wfUqEPLblTZ_Te4:AAGBfm0AAAAAYbB5Ve7zKKgIjF-o89gQhHd_TF32yaLA&scisig=AAGBfm0AAAAAYbB5VVN2mVrRg7Mctytlrqk1zDiJZ6Q4&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
@@ -171,7 +200,30 @@ content:
           Zhi Zhou, Zongjie Cao, Yiming Pi, **Ting Jiang**  
           [[PDF](https://sci-hub.se/10.1109/igarss.2018.8519004)]
           [[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:f_rOmrAJfqoJ:scholar.google.com/&output=citation&scisdr=CgX3wfUqEPLblTZ_1A4:AAGBfm0AAAAAYbB5zA7JsuImgF6RjVMo4zr94VpXrOVu&scisig=AAGBfm0AAAAAYbB5zC7GmB-jc-_X80TEdD3WwGNkLsfp&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
-
+      
+  - title: Competitions # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: NTIRE 2021 High Dynamic Range Challenge - Track 2 Multiple Frames
+        # caption: 
+        sub_title: <blue_mark>Winner</blue_mark>
+        description: | # this will include new lines to allow paragraphs
+          ## The task of recovering an HDR image from one or multiple input Low Dynamic Range (LDR) images that are affected by noise, quantization errors, and might suffer from  over- and under-exposed regions due to the sensor limitations.
+        
+      - layout: left
+        title: NTIRE 2022 High Dynamic Range Challenge - Track 1 Fidelity (low-complexity constrain)
+        # caption: 
+        sub_title: <blue_mark>Eighth</blue_mark>
+        description: | # this will include new lines to allow paragraphs
+          ## the task of recovering an HDR image from one or multiple input Low Dynamic Range (LDR) images that are affected by noise, quantization errors, and might suffer from  over- and under-exposed regions due to the sensor limitations. All models submitted to this track are required to process each input image set in under 200GMAccs (1 MAcc = 2 Flops), and this number should include all operations performed (e.g. test-time augmentations, pre- and post-processing). 
+      
+       - layout: left
+        title: NTIRE 2022 High Dynamic Range Challenge - Track 2 Low-complexity (fidelity constrain)
+        # caption: 
+        sub_title: <blue_mark>Fifth</blue_mark>
+        description: | # this will include new lines to allow paragraphs
+          ## the task of recovering an HDR image from one or multiple input Low Dynamic Range (LDR) images that are affected by noise, quantization errors, and might suffer from  over- and under-exposed regions due to the sensor limitations. This track sets the minimum fidelity scores that need to be achieved by all solutions in order to be eligible. It choose the "Attention-guided Network for Ghost-free High Dynamic Range Imaging" by Yan et al. as the baseline defining the minimum fidelity, and therefore all submitted methods should achieve higher fidelity scores. 
       
 
   - title: Projects # Title for the section
