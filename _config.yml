@@ -62,7 +62,6 @@ content:
         caption:  Mar. 2019 - Present
         description: | # this will include new lines to allow paragraphs
           ## **Megvii Research**
-          Team Leader <br />
           <mark>Feilds</mark> Responsible for the research and project delivery of image enhancement algorithms, research and project directions include image or video HDR and other super quality, image or video enhancement or super-resolution, super night scene, noise reduction, alignment, beauty, dual-camera blur, ISP, IQA, etc. At present, the team has 10 FTE and several interns.
       
       - layout: left
@@ -73,7 +72,6 @@ content:
         caption:  Mar. 2019 - Mar. 2020
         description: | # this will include new lines to allow paragraphs
           ## **Megvii Research**
-          Intern <br />
           <mark>Feilds</mark>  Responsible for model compression related algorithm research, research direction involves model distillation, pruning, quantization, model search, etc.
 
       - layout: left
@@ -84,7 +82,6 @@ content:
         caption:  Dec. 2018 - Mar. 2019
         description: | # this will include new lines to allow paragraphs
           ## **Megvii Research**
-          Intern <br />
           <mark>Feilds</mark>  Autonomous driving, Intelligent cockpit, Behavior detection.
       
       - layout: left
@@ -95,7 +92,6 @@ content:
         caption: May. 2018 - Dec. 2018
         description: | # this will include new lines to allow paragraphs
           ## **SenseTime Research**
-          Intern <br />
           <mark>Feilds</mark> Face recognition and detection, Image and video retrieval.
       
       - layout: left
@@ -116,7 +112,6 @@ content:
         # sub_title:  
         caption: Sept. 2011 - Jul. 2015
         description: | # this will include new lines to allow paragraphs
-            
             ## **University of South China (USC)**
             Electronic Information Engineering <br />
             <mark>Thesis</mark> Electronic circuit system. 
@@ -178,8 +173,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           ## **A Knowledge Distillation Method Based on IQE Attention Mechanism for Target Recognition in Sar Imagery**
           **Jielei Wang**, Ting Jiang, Zongyong Cui, Zongjie Cao, Changjie Cao 
-          # [[PDF](https://sci-hub.se/https://ieeexplore.ieee.org/document/8518792)]
-          # [[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:HRfCTYzKoHEJ:scholar.google.com/&output=citation&scisdr=CgX3wfUqEPLblTZ_Te4:AAGBfm0AAAAAYbB5Ve7zKKgIjF-o89gQhHd_TF32yaLA&scisig=AAGBfm0AAAAAYbB5VVN2mVrRg7Mctytlrqk1zDiJZ6Q4&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
       
       - layout: left
         title: IGARSS 2018
@@ -205,25 +198,28 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: NTIRE 2021 High Dynamic Range Challenge (Track 2 Multiple Frames)
+        title: NTIRE 2021
         # caption: 
         sub_title: <blue_mark>Winner</blue_mark>
         description: | # this will include new lines to allow paragraphs
-          ## The task of recovering an HDR image from one or multiple input Low Dynamic Range (LDR) images that are affected by noise, quantization errors, and might suffer from  over- and under-exposed regions due to the sensor limitations.
+          ## ** NTIRE 2021 High Dynamic Range Challenge - Track 2 Multiple Frames **
+          The task of recovering an HDR image from one or multiple input Low Dynamic Range (LDR) images that are affected by noise, quantization errors, and might suffer from  over- and under-exposed regions due to the sensor limitations.
         
       - layout: left
-        title: NTIRE 2022 High Dynamic Range Challenge (Track 1 Fidelity (low-complexity constrain))
+        title: NTIRE 2022 (Track 1)
         # caption: 
         sub_title: <blue_mark>Eighth</blue_mark>
         description: | # this will include new lines to allow paragraphs
-          ## the task of recovering an HDR image from one or multiple input Low Dynamic Range (LDR) images that are affected by noise, quantization errors, and might suffer from  over- and under-exposed regions due to the sensor limitations. All models submitted to this track are required to process each input image set in under 200GMAccs (1 MAcc = 2 Flops), and this number should include all operations performed (e.g. test-time augmentations, pre- and post-processing). 
+          ## ** NTIRE 2022 High Dynamic Range Challenge - Track 1 Fidelity (low-complexity constrain)**
+          The task of recovering an HDR image from one or multiple input Low Dynamic Range (LDR) images that are affected by noise, quantization errors, and might suffer from  over- and under-exposed regions due to the sensor limitations. All models submitted to this track are required to process each input image set in under 200GMAccs (1 MAcc = 2 Flops), and this number should include all operations performed (e.g. test-time augmentations, pre- and post-processing). 
       
       - layout: left
-        title: NTIRE 2022 High Dynamic Range Challenge (Track 2 Low-complexity (fidelity constrain))
+        title: NTIRE 2022 (Track 2)
         # caption: 
         sub_title: <blue_mark>Fifth</blue_mark>
         description: | # this will include new lines to allow paragraphs
-          ## the task of recovering an HDR image from one or multiple input Low Dynamic Range (LDR) images that are affected by noise, quantization errors, and might suffer from  over- and under-exposed regions due to the sensor limitations. This track sets the minimum fidelity scores that need to be achieved by all solutions in order to be eligible. It choose the "Attention-guided Network for Ghost-free High Dynamic Range Imaging" by Yan et al. as the baseline defining the minimum fidelity, and therefore all submitted methods should achieve higher fidelity scores. 
+          ## ** NTIRE 2022 High Dynamic Range Challenge - Track 2 Low-complexity (fidelity constrain)**
+          The task of recovering an HDR image from one or multiple input Low Dynamic Range (LDR) images that are affected by noise, quantization errors, and might suffer from  over- and under-exposed regions due to the sensor limitations. This track sets the minimum fidelity scores that need to be achieved by all solutions in order to be eligible. It choose the "Attention-guided Network for Ghost-free High Dynamic Range Imaging" by Yan et al. as the baseline defining the minimum fidelity, and therefore all submitted methods should achieve higher fidelity scores. 
       
 
   - title: Projects # Title for the section
