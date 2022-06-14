@@ -169,7 +169,7 @@ content:
       - layout: left
         title: IGARSS 2022
         # caption: 
-        sub_title: <blue_mark>Accepted</blue_mark>
+        sub_title: <blue_mark>Accepted (Oral) </blue_mark>
         description: | # this will include new lines to allow paragraphs
           ## **A Knowledge Distillation Method Based on IQE Attention Mechanism for Target Recognition in Sar Imagery**
           **Jielei Wang**, Ting Jiang, Zongyong Cui, Zongjie Cao, Changjie Cao 
