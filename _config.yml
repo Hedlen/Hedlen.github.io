@@ -12,7 +12,7 @@ email: tjhedlen@gmail.com
 website: https://hedlen.github.io
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 # twitter_username: facespics
@@ -63,7 +63,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           ## **Megvii Research**
           <mark>Feilds</mark> Responsible for the research and project delivery of computer wision and computer graphics algorithms, research and project directions include image or video HDR, image or video enhancement, noise reduction, alignment, beauty, dual camera, AIISP, IQA, etc. The team currently has 10 FTE, some interns.
-      
       - layout: left
         title: Computer Vision Algorithm Researcher
         # link: www.msg.group
@@ -73,7 +72,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           ## **Megvii Research**
           <mark>Feilds</mark>  Autonomous driving, Intelligent cockpit, Behavior detection, etc.
-
       - layout: left
         title: Internship
         # link: www.msg.group
@@ -83,7 +81,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           ## **Megvii Research**
           <mark>Feilds</mark> Model compression related algorithm research, research direction involves model distillation, pruning, quantization, model search, etc.
-      
       - layout: left
         title: Internship
         # link: www.msg.group
@@ -93,8 +90,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           ## **SenseTime Research**
           <mark>Feilds</mark> Face recognition and detection, Image and video retrieval.
-      
-      - layout: top-left
+      - layout: left
         title: M.Sc.
         # link: grubhub.com
         # link_text: grubhub.com
@@ -104,7 +100,6 @@ content:
             ## **University of Electronic Science and Technology of China (UESTC)**
             Information and Communication Engineering <br />
             <mark>Thesis</mark> Target recognition, Target detection, Model compression.
-      
       - layout: left
         title: B.E.
         # link: bmwgroup.com
