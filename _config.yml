@@ -196,21 +196,21 @@ content:
         # caption: 
         sub_title: <blue_mark>Winner</blue_mark>
         description: | # this will include new lines to allow paragraphs
-          ## **NTIRE 2021 High Dynamic Range Challenge - Track 2 Multiple Frames**
+          ## [[NTIRE 2021 High Dynamic Range Challenge - Track 2 Multiple Frames](https://competitions.codalab.org/competitions/28162)]
         
       - layout: left
         title: NTIRE 2022
         # caption: 
         sub_title: <blue_mark>Eighth</blue_mark>
         description: | # this will include new lines to allow paragraphs
-          ## **NTIRE 2022 High Dynamic Range Challenge - Track 1 Fidelity (low-complexity constrain)**
+          ## [[NTIRE 2022 High Dynamic Range Challenge - Track 1 Fidelity(low-complexity constrain)](https://codalab.lisn.upsaclay.fr/competitions/1514)]
       
       - layout: left
         title: NTIRE 2022
         # caption: 
         sub_title: <blue_mark>Fifth</blue_mark>
         description: | # this will include new lines to allow paragraphs
-          ## **NTIRE 2022 High Dynamic Range Challenge - Track 2 Low-complexity (fidelity constrain)**
+          ## [[NTIRE 2022 High Dynamic Range Challenge - Track 2 Low-complexity (fidelity constrain)](https://codalab.lisn.upsaclay.fr/competitions/1515)]
       
 
   - title: Projects # Title for the section
