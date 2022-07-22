@@ -194,7 +194,7 @@ content:
           [[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:f_rOmrAJfqoJ:scholar.google.com/&output=citation&scisdr=CgX3wfUqEPLblTZ_1A4:AAGBfm0AAAAAYbB5zA7JsuImgF6RjVMo4zr94VpXrOVu&scisig=AAGBfm0AAAAAYbB5zC7GmB-jc-_X80TEdD3WwGNkLsfp&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
       
   - title: Competitions # Title for the section
-    layout: text # Type of content section (list/text)
+    layout: list # Type of content section (list/text)
     content:
       - layout: top-left
         title: NTIRE 2021
@@ -202,23 +202,20 @@ content:
         sub_title: <blue_mark>Winner</blue_mark>
         description: | # this will include new lines to allow paragraphs
           ## **NTIRE 2021 High Dynamic Range Challenge - Track 2 Multiple Frames**
-          The task of recovering an HDR image from one or multiple input Low Dynamic Range (LDR) images that are affected by noise, quantization errors, and might suffer from  over- and under-exposed regions due to the sensor limitations.
         
       - layout: top-left
-        title: NTIRE 2022 (Track 1)
+        title: NTIRE 2022
         # caption: 
         sub_title: <blue_mark>Eighth</blue_mark>
         description: | # this will include new lines to allow paragraphs
           ## **NTIRE 2022 High Dynamic Range Challenge - Track 1 Fidelity (low-complexity constrain)**
-          The task of recovering an HDR image from one or multiple input Low Dynamic Range (LDR) images that are affected by noise, quantization errors, and might suffer from  over- and under-exposed regions due to the sensor limitations. All models submitted to this track are required to process each input image set in under 200GMAccs (1 MAcc = 2 Flops), and this number should include all operations performed (e.g. test-time augmentations, pre- and post-processing). 
       
       - layout: top-left
-        title: NTIRE 2022 (Track 2)
+        title: NTIRE 2022
         # caption: 
         sub_title: <blue_mark>Fifth</blue_mark>
         description: | # this will include new lines to allow paragraphs
           ## **NTIRE 2022 High Dynamic Range Challenge - Track 2 Low-complexity (fidelity constrain)**
-          The task of recovering an HDR image from one or multiple input Low Dynamic Range (LDR) images that are affected by noise, quantization errors, and might suffer from  over- and under-exposed regions due to the sensor limitations. This track sets the minimum fidelity scores that need to be achieved by all solutions in order to be eligible. It choose the "Attention-guided Network for Ghost-free High Dynamic Range Imaging" by Yan et al. as the baseline defining the minimum fidelity, and therefore all submitted methods should achieve higher fidelity scores. 
       
 
   - title: Projects # Title for the section
