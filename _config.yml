@@ -9,10 +9,10 @@ version: 2
 name: 蒋霆 (Ting Jiang)
 title: Computer Vision & Computer Graphics
 email: tjhedlen@gmail.com
-website: https://github.com/Hedlen
+website: https://hedlen.github.io
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 # twitter_username: facespics
@@ -54,7 +54,7 @@ content:
   - title: Education & Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:                       
-      - layout: left
+      - layout: top-middle
         title: Technical Director
         # link: www.msg.group
         # link_text: msg.group
@@ -64,7 +64,7 @@ content:
           ## **Megvii Research**
           <mark>Feilds</mark> Responsible for the research and project delivery of computer wision and computer graphics algorithms, research and project directions include image or video HDR, image or video enhancement, noise reduction, alignment, beauty, dual camera, AIISP, IQA, etc. The team currently has 10 FTE, some interns.
       
-      - layout: left
+      - layout: top-middle
         title: Computer Vision Algorithm Researcher
         # link: www.msg.group
         # link_text: msg.group
@@ -74,7 +74,7 @@ content:
           ## **Megvii Research**
           <mark>Feilds</mark>  Autonomous driving, Intelligent cockpit, Behavior detection, etc.
 
-      - layout: left
+      - layout: top-middle
         title: Internship
         # link: www.msg.group
         # link_text: msg.group
@@ -84,7 +84,7 @@ content:
           ## **Megvii Research**
           <mark>Feilds</mark> Model compression related algorithm research, research direction involves model distillation, pruning, quantization, model search, etc.
       
-      - layout: left
+      - layout: top-middle
         title: Internship
         # link: www.msg.group
         # link_text: msg.group
@@ -94,7 +94,7 @@ content:
           ## **SenseTime Research**
           <mark>Feilds</mark> Face recognition and detection, Image and video retrieval.
       
-      - layout: left
+      - layout: top-middle
         title: M.Sc.
         # link: grubhub.com
         # link_text: grubhub.com
@@ -105,7 +105,7 @@ content:
             Information and Communication Engineering <br />
             <mark>Thesis</mark> Target recognition, Target detection, Model compression.
       
-      - layout: left
+      - layout: top-middle
         title: B.E.
         # link: bmwgroup.com
         # link_text: bmwgroup.com
@@ -119,7 +119,7 @@ content:
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         title: NeurIPS 2022
         # caption: 
         sub_title: <blue_mark>Under review</blue_mark>
@@ -127,15 +127,15 @@ content:
           ## **Absorption Pruning of Deep Neural Network for Object Detection in Remote Sensing Imagery**
           Jielei Wang, **Ting Jiang**, Zongyong Cui, Zongjie Cao
 
-      - layout: left
-        title: ECCV 2022
+      - layout: top-middle
+        title: AAAI 2022
         # caption: 
         sub_title: <blue_mark>Under review</blue_mark>
         description: | # this will include new lines to allow paragraphs
           ## **MEFLUT: Unsupervised Learning 1D Lookup Tables for Multi-exposure Image Fusion**
           **Ting Jiang**, Chuan Wang, Xinpeng Li, Haoqiang Fan, Shuaicheng Liu
       
-      - layout: left
+      - layout: top-middle
         title: TIP 2022
         # caption: 
         sub_title: <blue_mark>Under review</blue_mark>
@@ -143,7 +143,7 @@ content:
           ## **Efficient Neural Architecture Search via firefly optimization for SAR ship detection**
           Jielei Wang, **Ting Jiang**, Zongyong Cui, Changjie Cao, Zongjie Cao
 
-      - layout: left
+      - layout: top-middle
         title: CVPRW 2021
         # caption: 
         sub_title: <blue_mark>Accepted, The winning method of the first edition of NTIRE2021 Multi-Frame HDR Challenge</blue_mark>
@@ -155,7 +155,7 @@ content:
           [Video: [Youtube](https://www.youtube.com/watch?v=M0X-BXe3UqM&t=2s), [Bilibili](https://www.bilibili.com/video/BV19h411a78M/)]
           [[BibTex](http://www.liushuaicheng.org/bibtex/CVPR21_ADNet.bib)]
       
-      - layout: left
+      - layout: top-middle
         title: Neuro Computing 2021
         # caption: 
         sub_title: <blue_mark>Accepted</blue_mark>
@@ -165,16 +165,15 @@ content:
           [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S092523122101078X)]
           [[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:W5Y6IjacCXMJ:scholar.google.com/&output=citation&scisdr=CgX7dAiIEPLblS6f6f0:AAGBfm0AAAAAYaiZ8f3mBG7uSNMy8SQbSmkDPpRR3XC3&scisig=AAGBfm0AAAAAYaiZ8Ws0rRq80UAZsZNInzQYHjniOy4y&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
       
-      
-      - layout: left
+      - layout: top-middle
         title: IGARSS 2022
         # caption: 
         sub_title: <blue_mark>Accepted (Oral) </blue_mark>
         description: | # this will include new lines to allow paragraphs
           ## **A Knowledge Distillation Method Based on IQE Attention Mechanism for Target Recognition in Sar Imagery**
-          **Jielei Wang**, Ting Jiang, Zongyong Cui, Zongjie Cao, Changjie Cao 
+          Jielei Wang, **Ting Jiang**, Zongyong Cui, Zongjie Cao, Changjie Cao 
       
-      - layout: left
+      - layout: top-middle
         title: IGARSS 2018
         # caption: 
         sub_title: <blue_mark>Accepted</blue_mark>
@@ -184,7 +183,7 @@ content:
           [[PDF](https://sci-hub.se/https://ieeexplore.ieee.org/document/8518792)]
           [[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:HRfCTYzKoHEJ:scholar.google.com/&output=citation&scisdr=CgX3wfUqEPLblTZ_Te4:AAGBfm0AAAAAYbB5Ve7zKKgIjF-o89gQhHd_TF32yaLA&scisig=AAGBfm0AAAAAYbB5VVN2mVrRg7Mctytlrqk1zDiJZ6Q4&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
       
-      - layout: left
+      - layout: top-middle
         title: IGARSS 2018
         # caption: 
         sub_title: <blue_mark>Accepted</blue_mark>
@@ -197,7 +196,7 @@ content:
   - title: Competitions # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         title: NTIRE 2021
         # caption: 
         sub_title: <blue_mark>Winner</blue_mark>
@@ -205,7 +204,7 @@ content:
           ## **NTIRE 2021 High Dynamic Range Challenge - Track 2 Multiple Frames**
           The task of recovering an HDR image from one or multiple input Low Dynamic Range (LDR) images that are affected by noise, quantization errors, and might suffer from  over- and under-exposed regions due to the sensor limitations.
         
-      - layout: left
+      - layout: top-middle
         title: NTIRE 2022 (Track 1)
         # caption: 
         sub_title: <blue_mark>Eighth</blue_mark>
@@ -213,7 +212,7 @@ content:
           ## **NTIRE 2022 High Dynamic Range Challenge - Track 1 Fidelity (low-complexity constrain)**
           The task of recovering an HDR image from one or multiple input Low Dynamic Range (LDR) images that are affected by noise, quantization errors, and might suffer from  over- and under-exposed regions due to the sensor limitations. All models submitted to this track are required to process each input image set in under 200GMAccs (1 MAcc = 2 Flops), and this number should include all operations performed (e.g. test-time augmentations, pre- and post-processing). 
       
-      - layout: left
+      - layout: top-middle
         title: NTIRE 2022 (Track 2)
         # caption: 
         sub_title: <blue_mark>Fifth</blue_mark>
@@ -225,7 +224,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         title: Driver Monitor System
         caption: Dec. 2018 - Jul. 2019
         sub_title: Major member
@@ -237,7 +236,7 @@ content:
         video_path1: images/DMS_smoke_demo2.mp4
         video_path2: images/DMS_phone_demo.mp4
 
-      - layout: left
+      - layout: top-middle
         title: High dynaimc range image
         caption: Jul. 2019 - Present
         sub_title: Algorithm Leader
@@ -248,7 +247,7 @@ content:
         img_path1: images/HDR1.png
         img_path2: images/HDR2.png
 
-      - layout: left
+      - layout: top-middle
         title: Super night view
         caption: Jul. 2019 - Present
         sub_title: Algorithm Leader
@@ -258,7 +257,7 @@ content:
         img_path1: images/y1.png
         img_path2: images/y2.png
 
-      - layout: left
+      - layout: top-middle
         title: Portrait beauty
         caption: Jul. 2019 - Present
         sub_title: Algorithm Leader
