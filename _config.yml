@@ -59,7 +59,7 @@ content:
         # link: www.msg.group
         # link_text: msg.group
         # sub_title: 
-        caption:  Mar. 2019 - Present
+        caption:  Mar. 2021 - Present
         description: | # this will include new lines to allow paragraphs
           ## **Megvii Research**
           <mark>Feilds</mark> Responsible for the research and project delivery of computer wision and computer graphics algorithms, research and project directions include image or video HDR, image or video enhancement, noise reduction, alignment, beauty, dual camera, AIISP, IQA, etc. The team currently has 10 FTE, some interns.
@@ -68,10 +68,10 @@ content:
         # link: www.msg.group
         # link_text: msg.group
         # sub_title: 
-        caption:  Mar. 2019 - Mar. 2020
+        caption:  Mar. 2019 - Mar. 2021
         description: | # this will include new lines to allow paragraphs
           ## **Megvii Research**
-          <mark>Feilds</mark>  Autonomous driving, Intelligent cockpit, Behavior detection, etc.
+          <mark>Feilds</mark>  Autonomous driving, Intelligent cockpit, Behavior detection, High dynamic range image etc.
       - layout: left
         title: Internship
         # link: www.msg.group
