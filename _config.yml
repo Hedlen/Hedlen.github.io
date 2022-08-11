@@ -10,6 +10,7 @@ name: 蒋霆 (Ting Jiang)
 title: Computer Vision & Computer Graphics
 email: tjhedlen@gmail.com
 website: https://hedlen.github.io
+resume: https://hedlen.github.io
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -34,9 +35,7 @@ additional_links:
 - title: google scholar
   icon: fab fa-google
   url: https://scholar.google.com/citations?user=vwVneW4AAAAJ&hl=zh-CN
-- title: Resume
-  icon: fab fa-google
-  url: https://scholar.google.com/citations?user=vwVneW4AAAAJ&hl=zh-CN
+
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
