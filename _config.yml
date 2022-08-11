@@ -34,6 +34,9 @@ additional_links:
 - title: google scholar
   icon: fab fa-google
   url: https://scholar.google.com/citations?user=vwVneW4AAAAJ&hl=zh-CN
+- title: Resume
+  icon: fab fa-google
+  url: https://scholar.google.com/citations?user=vwVneW4AAAAJ&hl=zh-CN
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
