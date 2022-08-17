@@ -64,7 +64,7 @@ content:
         caption:  Mar. 2021 - Present
         description: | # this will include new lines to allow paragraphs
           ## **Megvii Research**
-          <mark>Feilds</mark> Responsible for the research and project delivery of computer wision and computer graphics algorithms, research and project directions include image or video HDR, image or video enhancement, noise reduction, alignment, beauty, dual camera, AIISP, IQA, etc. The team currently has 10 FTE, some interns.
+          <mark>Feilds</mark> Responsible for the research and project delivery of computer wision and computer graphics algorithms, research and project directions include image or video HDR, image or video enhancement, noise reduction, alignment, beauty, dual camera, AIISP, IQA, Computer Graphics，3D modeling and rendering. The team currently has 10 FTE, some interns.
       - layout: left
         title: Computer Vision Algorithm Researcher
         # link: www.msg.group
@@ -213,6 +213,20 @@ content:
         sub_title: <blue_mark>Fifth</blue_mark>
         description: | # this will include new lines to allow paragraphs
           ## [NTIRE 2022 High Dynamic Range Challenge - Track 2 Low-complexity (fidelity constrain)](https://codalab.lisn.upsaclay.fr/competitions/1515)
+
+      - layout: left
+        title: MIPI 2022
+        # caption: 
+        sub_title: <blue_mark>2nd Place Award</blue_mark>
+        description: | # this will include new lines to allow paragraphs
+          ## [RGBW Joint Fusion and Denoise @MIPI-challenge](https://codalab.lisn.upsaclay.fr/competitions/4953#learn_the_details)
+      
+      - layout: left
+        title: MIPI 2022
+        # caption: 
+        sub_title: <blue_mark>Sixth</blue_mark>
+        description: | # this will include new lines to allow paragraphs
+          ## [Quad Joint Remosaic and Denoise @MIPI-challenge](https://codalab.lisn.upsaclay.fr/competitions/4955)
       
 
   - title: Projects # Title for the section
