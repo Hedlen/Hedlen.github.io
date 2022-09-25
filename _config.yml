@@ -58,9 +58,6 @@ content:
     content:                       
       - layout: left
         title: Technical Director
-        # link: www.msg.group
-        # link_text: msg.group
-        # sub_title: 
         caption:  Mar. 2021 - Present
         description: | # this will include new lines to allow paragraphs
           ## **Megvii Research**
