@@ -268,7 +268,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           In extreme scenarios, the noise is improved, and it is suitable for various mobile devices, such as mobile phones, vehicles, drones, robots, etc.
         img_path3: images/dzjz.png
-        img_path1: images/szjz.png
+        img_path5: images/szjz.png
 
       - layout: left
         title: Portrait beauty
@@ -287,7 +287,7 @@ content:
         sub_title: Algorithm Leader
         description: | # this will include new lines to allow paragraphs
           It mainly involves the detection of ghosts existing in the project to achieve precise positioning.
-        img_path4: images/gjjc.png
+        img_path6: images/gjjc.png
 
 # Footer
 footer_show_references: true
