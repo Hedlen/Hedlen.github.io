@@ -114,7 +114,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: CVPR 2023
+        title: arxiv 2023
         # caption: 
         sub_title: <blue_mark>Under review</blue_mark>
         description: | # this will include new lines to allow paragraphs
@@ -122,7 +122,7 @@ content:
           **Ting Jiang**, Chuan Wang, Xinpeng Li, Haoqiang Fan, Shuaicheng Liu
 
       - layout: left
-        title: CVPR 2023
+        title: arxiv 2023
         # caption: 
         sub_title: <blue_mark>Under review</blue_mark
         description: | # this will include new lines to allow paragraphs
@@ -130,7 +130,7 @@ content:
           **Ting Jiang**, Haibing Huang, Ru Li, Haoqiang Fan, Shuaicheng Liu
       
       - layout: left
-        title: CVPR 2023
+        title: arxiv 2023
         # caption: 
         sub_title: <blue_mark>Under review</blue_mark>
         description: | # this will include new lines to allow paragraphs
@@ -138,7 +138,7 @@ content:
           Xuhang Liu, Chuan Wang, **Ting Jiang**, Shuaicheng Liu
       
       - layout: left
-        title: CVPR 2023
+        title: arxiv 2023
         # caption: 
         sub_title: <blue_mark>Under review</blue_mark>
         description: | # this will include new lines to allow paragraphs
