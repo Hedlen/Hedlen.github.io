@@ -126,7 +126,7 @@ content:
         # caption: 
         sub_title: <blue_mark>Under review</blue_mark
         description: | # this will include new lines to allow paragraphs
-          ## **Multi-focus Image Fusion in Dynamic Scenes with a Hand-held Camera**
+          ## **Multi-focus Image Fusion in Dynamic Scenes with a Hand-held Camera**  
           **Ting Jiang**, Haibing Huang, Ru Li, Haoqiang Fan, Shuaicheng Liu
       
       - layout: left
