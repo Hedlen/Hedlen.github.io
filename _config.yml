@@ -61,7 +61,7 @@ content:
         caption:  Mar. 2021 - Present
         description: | # this will include new lines to allow paragraphs
           ## **Megvii Research**
-          <mark>Feilds</mark> Responsible for the research and project delivery of computer wision and computer graphics algorithms, research and project directions include image or video HDR, image or video enhancement, noise reduction, alignment, beauty, dual camera, AIISP, IQA, Computer Graphics，3D modeling and rendering. The team currently has 10 FTE, some interns.
+          <mark>Feilds</mark> Responsible for the research and project delivery of computer vision and computer graphics algorithms, research and project directions include image or video HDR, image or video enhancement, noise reduction, alignment, beauty, dual camera, AIISP, IQA, 3D modeling and rendering, etc. The team currently has 10 FTE, some interns.
       - layout: left
         title: Computer Vision Algorithm Researcher
         # link: www.msg.group
@@ -70,7 +70,7 @@ content:
         caption:  Mar. 2019 - Mar. 2021
         description: | # this will include new lines to allow paragraphs
           ## **Megvii Research**
-          <mark>Feilds</mark>  Autonomous driving, Intelligent cockpit, Behavior detection, High dynamic range image etc.
+          <mark>Feilds</mark>  Autonomous driving, intelligent cockpit, behavior detection, high dynamic range image etc.
       - layout: left
         title: Internship
         # link: www.msg.group
@@ -124,9 +124,9 @@ content:
       - layout: left
         title: CVPR 2023
         # caption: 
-        sub_title: <blue_mark>Under review</blue_mark>
+        sub_title: <blue_mark>Under review</blue_mark
         description: | # this will include new lines to allow paragraphs
-          ## **Multi-focus Image Fusion in Dynamic Scenes with a Hand-held Camera **
+          ## **Multi-focus Image Fusion in Dynamic Scenes with a Hand-held Camera**
           **Ting Jiang**, Haibing Huang, Ru Li, Haoqiang Fan, Shuaicheng Liu
       
       - layout: left
