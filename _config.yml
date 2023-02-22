@@ -50,7 +50,7 @@ about_content: | # this will include new lines to allow paragraphs
   Ting Jiang received his Master degree at Information and Communication Engineering in University of Electronic Science and Technology of China (UESTC), supervised by 
   [Prof. Yiming Pi](https://www.researchgate.net/scientific-contributions/Yiming-Pi-13739828) and 
   [Prof. Zongjie Cao](https://www.researchgate.net/scientific-contributions/Zongjie-Cao-33269443), in 2019. He obtained his Bachelor degree at Electronic Information Engineering in University of South China (USC) in 2015.
-  During in internship, he was luckily mentored by [Dr. Zhanghui Kuang](https://scholar.google.com/citations?hl=zh-CN&user=z4wkHDgAAAAJ) at SenseTime and [Prof. Shuaicheng Liu](http://www.liushuaicheng.org/), [Dr. Jue Wang](https://juew.org/) at MEGVII Research. He is a full time computer vision researcher at present in MEGVII Research. His research interests include Computer Vision and Computer Graphics.
+  During in internship, he was luckily mentored by [Dr. Zhanghui Kuang](https://scholar.google.com/citations?hl=zh-CN&user=z4wkHDgAAAAJ) at SenseTime and [Prof. Shuaicheng Liu](http://www.liushuaicheng.org/), [Dr. Jue Wang](https://juewang725.github.io/) at MEGVII Research. He is a full time computer vision researcher at present in MEGVII Research. His research interests include Computer Vision and Computer Graphics.
   
 content:
   - title: Education & Experience # Title for the section
@@ -79,7 +79,7 @@ content:
         caption:  Dec. 2018 - Mar. 2019
         description: | # this will include new lines to allow paragraphs
           ## **Megvii Research**
-          <mark>Feilds</mark> Model compression related algorithm research, research direction involves model distillation, pruning, quantization, model search, etc.
+          <mark>Feilds</mark> Model compression related algorithm research, research direction involves model distillation, pruning, quantization, model search etc.
       - layout: left
         title: Internship
         # link: www.msg.group
@@ -88,7 +88,7 @@ content:
         caption: May. 2018 - Dec. 2018
         description: | # this will include new lines to allow paragraphs
           ## **SenseTime Research**
-          <mark>Feilds</mark> Face recognition and detection, Image and video retrieval.
+          <mark>Feilds</mark> Face recognition and detection, image and video retrieval.
       - layout: left
         title: M.Sc.
         # link: grubhub.com
@@ -98,7 +98,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             ## **University of Electronic Science and Technology of China (UESTC)**
             Information and Communication Engineering <br />
-            <mark>Thesis</mark> Target recognition, Target detection, Model compression.
+            <mark>Thesis</mark> Target recognition, target detection, model compression.
       - layout: left
         title: B.E.
         # link: bmwgroup.com
