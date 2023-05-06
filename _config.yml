@@ -112,6 +112,14 @@ content:
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
+       - layout: left
+        title: CVPRW 2023
+        # caption: 
+        sub_title: <blue_mark>Accepted. The winning method of the NTIRE 2023 Efficient Super-resolution Challenge</blue_mark>
+        description: | # this will include new lines to allow paragraphs
+          ## **DIPNet: Efficiency Distillation and Iterative Pruning for Image Super-Resolution**
+          Lei Yu, Xinpeng Li, Youwei Li, **Ting Jiang**, Qi Wu, Haoqiang Fan, Shuaicheng Liu
+
       - layout: left
         title: arxiv 2023
         # caption: 
@@ -222,18 +230,67 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: NTIRE 2023
+        # caption: 
+        sub_title: <blue_mark>Winner</blue_mark>
+        description: | # this will include new lines to allow paragraphs
+          ## [NTIRE 2023 Efficient Super-resolution Challenge](https://codalab.lisn.upsaclay.fr/competitions/10256)
+      
+      - layout: left
         title: NTIRE 2021
         # caption: 
         sub_title: <blue_mark>Winner</blue_mark>
         description: | # this will include new lines to allow paragraphs
           ## [NTIRE 2021 High Dynamic Range Challenge - Track 2 Multiple Frames](https://competitions.codalab.org/competitions/28162)
-        
+
       - layout: left
-        title: NTIRE 2022
+        title: MIPI 2023
         # caption: 
-        sub_title: <blue_mark>Eighth</blue_mark>
+        sub_title: <blue_mark>2nd Place Award</blue_mark>
         description: | # this will include new lines to allow paragraphs
-          ## [NTIRE 2022 High Dynamic Range Challenge - Track 1 Fidelity(low-complexity constrain)](https://codalab.lisn.upsaclay.fr/competitions/1514)
+          ## [RGBW Joint Fusion and Denoise @MIPI-challenge](https://codalab.lisn.upsaclay.fr/competitions/9344)
+      
+      - layout: left
+        title: NTIRE 2023
+        # caption: 
+        sub_title: <blue_mark>2nd Place Award</blue_mark>
+        description: | # this will include new lines to allow paragraphs
+          ## [Image Shadow Removal Challenge](https://codalab.lisn.upsaclay.fr/competitions/10253)
+
+      - layout: left
+        title: MIPI 2022
+        # caption: 
+        sub_title: <blue_mark>2nd Place Award</blue_mark>
+        description: | # this will include new lines to allow paragraphs
+          ## [RGBW Joint Fusion and Denoise @MIPI-challenge](https://codalab.lisn.upsaclay.fr/competitions/4953#learn_the_details)
+    
+      - layout: left
+        title: MIPI 2023
+        # caption: 
+        sub_title: <blue_mark>3nd Place Award</blue_mark>
+        description: | # this will include new lines to allow paragraphs
+            ## [RGBW Joint Remosaic and Denoise @MIPI-challenge](https://codalab.lisn.upsaclay.fr/competitions/9343)
+      
+      - layout: left
+        title: MIPI 2023
+        # caption: 
+        sub_title: <blue_mark>3nd Place Award</blue_mark>
+        description: | # this will include new lines to allow paragraphs
+            ## [Nighttime Flare Removal @MIPI-challenge](https://codalab.lisn.upsaclay.fr/competitions/9402)
+
+      - layout: left
+        title: NTIRE 2023
+        # caption: 
+        sub_title: <blue_mark>Fifth</blue_mark>
+        description: | # this will include new lines to allow paragraphs
+          ## [Image Denoising Challenge](https://codalab.lisn.upsaclay.fr/competitions/10255)
+
+      - layout: left
+        title: MIPI 2022
+        # caption: 
+        sub_title: <blue_mark>Sixth</blue_mark>
+        description: | # this will include new lines to allow paragraphs
+          ## [Quad Joint Remosaic and Denoise @MIPI-challenge](https://codalab.lisn.upsaclay.fr/competitions/4955)
       
       - layout: left
         title: NTIRE 2022
@@ -243,19 +300,12 @@ content:
           ## [NTIRE 2022 High Dynamic Range Challenge - Track 2 Low-complexity (fidelity constrain)](https://codalab.lisn.upsaclay.fr/competitions/1515)
 
       - layout: left
-        title: MIPI 2022
+        title: NTIRE 2022
         # caption: 
-        sub_title: <blue_mark>2nd Place Award</blue_mark>
+        sub_title: <blue_mark>Eighth</blue_mark>
         description: | # this will include new lines to allow paragraphs
-          ## [RGBW Joint Fusion and Denoise @MIPI-challenge](https://codalab.lisn.upsaclay.fr/competitions/4953#learn_the_details)
-      
-      - layout: left
-        title: MIPI 2022
-        # caption: 
-        sub_title: <blue_mark>Sixth</blue_mark>
-        description: | # this will include new lines to allow paragraphs
-          ## [Quad Joint Remosaic and Denoise @MIPI-challenge](https://codalab.lisn.upsaclay.fr/competitions/4955)
-      
+          ## [NTIRE 2022 High Dynamic Range Challenge - Track 1 Fidelity(low-complexity constrain)](https://codalab.lisn.upsaclay.fr/competitions/1514)
+ 
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -316,6 +366,15 @@ content:
         description: | # this will include new lines to allow paragraphs
           It mainly involves the detection of ghosts existing in the project to achieve precise positioning.
         img_path6: images/gjjc.png
+      
+      - layout: left
+        title: Inpainting
+        caption: Jul. 2019 - Present
+        sub_title: Algorithm Leader
+        description: | # this will include new lines to allow paragraphs
+          On the Honor project, the detail recovery effect after smart erasing is better than that of competing models.
+        img_path6: images/inpainting.png
+      
 
 # Footer
 footer_show_references: true
