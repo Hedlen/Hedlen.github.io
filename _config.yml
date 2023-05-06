@@ -373,7 +373,7 @@ content:
         caption: Jul. 2019 - Present
         sub_title: Algorithm Leader
         description: | # this will include new lines to allow paragraphs
-          On the Honor project, the detail recovery effect after smart erasing is better than that of competing models.
+          The recovery effect of details in the smart erasing project is better than that of competing models.
         img_path6: images/inpainting.png
       
 
