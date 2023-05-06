@@ -61,6 +61,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           ## **Megvii Research**
           <mark>Feilds</mark> Responsible for the research and project delivery of computer vision and computer graphics algorithms, research and project directions include image or video HDR, image or video enhancement, noise reduction, alignment, beauty, dual camera, AIISP, IQA, 3D modeling and rendering, etc. The team currently has 10 FTE, some interns.
+      
       - layout: left
         title: Computer Vision Algorithm Researcher
         # link: www.msg.group
@@ -112,7 +113,7 @@ content:
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
-       - layout: left
+      - layout: left
         title: CVPRW 2023
         # caption: 
         sub_title: <blue_mark>Accepted. The winning method of the NTIRE 2023 Efficient Super-resolution Challenge</blue_mark>
