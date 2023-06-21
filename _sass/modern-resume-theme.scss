@@ -75,8 +75,6 @@
 
       b {
         font-weight: 500;
-        padding: 1px;
-        margin-bottom: 1px;
         
       }
     }
@@ -142,6 +140,13 @@
   }
 }
 
+
+.layout .details,
+.layout-top-middle .details
+.layout-left .details
+.layout-right .details {
+  margin-bottom: 1rem;
+}
 .layout-top-middle {
   .details {
     text-align: center;
