@@ -53,7 +53,7 @@ about_content: | # this will include new lines to allow paragraphs
   During in internship, he was luckily mentored by [Dr. Zhanghui Kuang](https://scholar.google.com/citations?hl=zh-CN&user=z4wkHDgAAAAJ) at SenseTime and [Prof. Shuaicheng Liu](http://www.liushuaicheng.org/), [Dr. Jue Wang](https://juewang725.github.io/) at MEGVII Research. He is a full time computer vision researcher at present in MEGVII Research. His research interests include Computer Vision, Computer Graphics and AIGC. 
 content:
   - title: Education & Experience # Title for the section
-    layout: text # Type of content section (list/text)
+    layout: list # Type of content section (list/text)
     content:                       
       - layout: left
         title: Technical Director
@@ -111,7 +111,7 @@ content:
             <mark>Thesis</mark> Electronic circuit system. 
 
   - title: Publications # Title for the section
-    layout: text # Type of content section (list/text)
+    layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: CVPRW 2023
@@ -228,7 +228,7 @@ content:
           [[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:f_rOmrAJfqoJ:scholar.google.com/&output=citation&scisdr=CgX3wfUqEPLblTZ_1A4:AAGBfm0AAAAAYbB5zA7JsuImgF6RjVMo4zr94VpXrOVu&scisig=AAGBfm0AAAAAYbB5zC7GmB-jc-_X80TEdD3WwGNkLsfp&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
       
   - title: Competitions # Title for the section
-    layout: text # Type of content section (list/text)
+    layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: NTIRE 2023
