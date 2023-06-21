@@ -141,11 +141,12 @@
 }
 
 
-.layout,
-.layout-top-middle,
-.layout-left,
-.layout-right {
-  margin-bottom: 0rem;
+
+.layout-left {
+  .details{
+    margin-bottom: 0.1rem;
+  }
+  
 }
 .layout-top-middle {
   .details {
