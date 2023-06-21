@@ -50,7 +50,7 @@ about_content: | # this will include new lines to allow paragraphs
   Ting Jiang received his Master degree at Information and Communication Engineering in University of Electronic Science and Technology of China (UESTC), supervised by 
   [Prof. Yiming Pi](https://www.researchgate.net/scientific-contributions/Yiming-Pi-13739828) and 
   [Prof. Zongjie Cao](https://www.researchgate.net/scientific-contributions/Zongjie-Cao-33269443), in 2019. He obtained his Bachelor degree at Electronic Information Engineering in University of South China (USC) in 2015.
-  During in internship, he was luckily mentored by [Dr. Zhanghui Kuang](https://scholar.google.com/citations?hl=zh-CN&user=z4wkHDgAAAAJ) at SenseTime and [Prof. Shuaicheng Liu](http://www.liushuaicheng.org/), [Dr. Jue Wang](https://juewang725.github.io/) at MEGVII Research. He is a technical director at present in MEGVII Research. His research interests include Computer Vision, Computer Graphics, LLM and AIGC. 
+  During in internship, he was luckily mentored by [Dr. Zhanghui Kuang](https://scholar.google.com/citations?hl=zh-CN&user=z4wkHDgAAAAJ) at SenseTime and [Prof. Shuaicheng Liu](http://www.liushuaicheng.org/), [Dr. Jue Wang](https://juewang725.github.io/) at MEGVII Research. He currently serves as the Technical Director at MEGVII Research. His research interests include Computer Vision, Computer Graphics, LLM and AIGC. 
 content:
   # - title: Work Experience # Title for the section
   #   layout: list # Type of content section (list/text)
@@ -130,7 +130,6 @@ content:
           Lei Yu, Xinpeng Li, Youwei Li, **Ting Jiang**, Qi Wu, Haoqiang Fan, Shuaicheng Liu
           [[PDF](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Yu_DIPNet_Efficiency_Distillation_and_Iterative_Pruning_for_Image_Super-Resolution_CVPRW_2023_paper.pdf)]
           [[Github](https://github.com/xiumu00/DIPNet)]
-          # [Video: [Youtube](https://www.youtube.com/watch?v=M0X-BXe3UqM&t=2s), [Bilibili](https://www.bilibili.com/video/BV19h411a78M/)]
           [[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:0ccJKoXHO3YJ:scholar.google.com/&output=citation&scisdr=Cm0wvJcrEJz3oTa1L14:AGlGAw8AAAAAZJKzN17vlfz03c2nhwRwF3CceJ0&scisig=AGlGAw8AAAAAZJKzN_aKBEMPChSSQvZ0ghHK4vg&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
       - layout: left
         title: ICCV 2023
