@@ -75,7 +75,6 @@
 
       b {
         font-weight: 500;
-        margin: 1px;
       }
     }
 
@@ -144,6 +143,12 @@
   .details {
     text-align: center;
   }
+}
+
+
+.layout .details p,
+.layout-top-middle .details p {
+  line-height: 1.2;
 }
 
 .footer-container {
