@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Jiang Ting 蒋霆
-title: Computer Vision & Computer Graphics & AIGC
+title: Computer Vision & Computer Graphics & LLM & AIGC
 email: tjhedlen@gmail.com
 website: https://hedlen.github.io
 resume: https://hedlen.github.io/tj.pdf
@@ -50,69 +50,77 @@ about_content: | # this will include new lines to allow paragraphs
   Ting Jiang received his Master degree at Information and Communication Engineering in University of Electronic Science and Technology of China (UESTC), supervised by 
   [Prof. Yiming Pi](https://www.researchgate.net/scientific-contributions/Yiming-Pi-13739828) and 
   [Prof. Zongjie Cao](https://www.researchgate.net/scientific-contributions/Zongjie-Cao-33269443), in 2019. He obtained his Bachelor degree at Electronic Information Engineering in University of South China (USC) in 2015.
-  During in internship, he was luckily mentored by [Dr. Zhanghui Kuang](https://scholar.google.com/citations?hl=zh-CN&user=z4wkHDgAAAAJ) at SenseTime and [Prof. Shuaicheng Liu](http://www.liushuaicheng.org/), [Dr. Jue Wang](https://juewang725.github.io/) at MEGVII Research. He is a full time computer vision researcher at present in MEGVII Research. His research interests include Computer Vision, Computer Graphics and AIGC. 
+  During in internship, he was luckily mentored by [Dr. Zhanghui Kuang](https://scholar.google.com/citations?hl=zh-CN&user=z4wkHDgAAAAJ) at SenseTime and [Prof. Shuaicheng Liu](http://www.liushuaicheng.org/), [Dr. Jue Wang](https://juewang725.github.io/) at MEGVII Research. He is a technical director at present in MEGVII Research. His research interests include Computer Vision, Computer Graphics, LLM and AIGC. 
 content:
-  - title: Education & Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:                       
-      - layout: left
-        title: Technical Director
-        caption:  Mar. 2021 - Present
-        description: | # this will include new lines to allow paragraphs
-          ## **Megvii Research**
-          <mark>Feilds</mark> Responsible for the research and project delivery of computer vision and computer graphics algorithms, research and project directions include image or video HDR, image or video enhancement, noise reduction, alignment, beauty, dual camera, AIISP, IQA, 3D modeling and rendering, etc. The team currently has 10 FTE, some interns.
+  # - title: Work Experience # Title for the section
+  #   layout: list # Type of content section (list/text)
+  #   content:                       
+  #     - layout: left
+  #       title: Technical Director
+  #       caption:  Mar. 2021 - Present
+  #       description: | # this will include new lines to allow paragraphs
+  #         ## **Megvii Research**
+  #         <mark>Feilds</mark> Responsible for the research and project delivery of computer vision and computer graphics algorithms, research and project directions include image or video HDR, image or video enhancement, noise reduction, alignment, beauty, dual camera, AIISP, IQA, 3D modeling and rendering, etc. The team currently has 10 FTE, some interns.
       
-      - layout: left
-        title: Computer Vision Algorithm Researcher
-        # link: www.msg.group
-        # link_text: msg.group
-        # sub_title: 
-        caption:  Mar. 2019 - Mar. 2021
-        description: | # this will include new lines to allow paragraphs
-          ## **Megvii Research**
-          <mark>Feilds</mark>  Autonomous driving, intelligent cockpit, behavior detection, high dynamic range image etc.
-      - layout: left
-        title: Internship
-        # link: www.msg.group
-        # link_text: msg.group
-        # sub_title: 
-        caption:  Dec. 2018 - Mar. 2019
-        description: | # this will include new lines to allow paragraphs
-          ## **Megvii Research**
-          <mark>Feilds</mark> Model compression related algorithm research, research direction involves model distillation, pruning, quantization, model search etc.
-      - layout: left
-        title: Internship
-        # link: www.msg.group
-        # link_text: msg.group
-        # sub_title: 
-        caption: May. 2018 - Dec. 2018
-        description: | # this will include new lines to allow paragraphs
-          ## **SenseTime Research**
-          <mark>Feilds</mark> Face recognition and detection, image and video retrieval.
-      - layout: left
-        title: M.Sc.
-        # link: grubhub.com
-        # link_text: grubhub.com
-        # sub_title: 
-        caption: Sept. 2016 - Jul. 2019
-        description: | # this will include new lines to allow paragraphs
-            ## **University of Electronic Science and Technology of China (UESTC)**
-            Information and Communication Engineering <br />
-            <mark>Thesis</mark> Target recognition, target detection, model compression.
-      - layout: left
-        title: B.E.
-        # link: bmwgroup.com
-        # link_text: bmwgroup.com
-        # sub_title:  
-        caption: Sept. 2011 - Jul. 2015
-        description: | # this will include new lines to allow paragraphs
-            ## **University of South China (USC)**
-            Electronic Information Engineering <br />
-            <mark>Thesis</mark> Electronic circuit system. 
+  #     - layout: left
+  #       title: Computer Vision Algorithm Researcher
+  #       # link: www.msg.group
+  #       # link_text: msg.group
+  #       # sub_title: 
+  #       caption:  Mar. 2019 - Mar. 2021
+  #       description: | # this will include new lines to allow paragraphs
+  #         ## **Megvii Research**
+  #         <mark>Feilds</mark>  Autonomous driving, intelligent cockpit, behavior detection, high dynamic range image etc.
+  #     - layout: left
+  #       title: Internship
+  #       # link: www.msg.group
+  #       # link_text: msg.group
+  #       # sub_title: 
+  #       caption:  Dec. 2018 - Mar. 2019
+  #       description: | # this will include new lines to allow paragraphs
+  #         ## **Megvii Research**
+  #         <mark>Feilds</mark> Model compression related algorithm research, research direction involves model distillation, pruning, quantization, model search etc.
+  #     - layout: left
+  #       title: Internship
+  #       # link: www.msg.group
+  #       # link_text: msg.group
+  #       # sub_title: 
+  #       caption: May. 2018 - Dec. 2018
+  #       description: | # this will include new lines to allow paragraphs
+  #         ## **SenseTime Research**
+  #         <mark>Feilds</mark> Face recognition and detection, image and video retrieval.
+      # - layout: left
+      #   title: M.Sc.
+      #   # link: grubhub.com
+      #   # link_text: grubhub.com
+      #   # sub_title: 
+      #   caption: Sept. 2016 - Jul. 2019
+      #   description: | # this will include new lines to allow paragraphs
+      #       ## **University of Electronic Science and Technology of China (UESTC)**
+      #       Information and Communication Engineering <br />
+      #       <mark>Thesis</mark> Target recognition, target detection, model compression.
+      # - layout: left
+      #   title: B.E.
+      #   # link: bmwgroup.com
+      #   # link_text: bmwgroup.com
+      #   # sub_title:  
+      #   caption: Sept. 2011 - Jul. 2015
+      #   description: | # this will include new lines to allow paragraphs
+      #       ## **University of South China (USC)**
+      #       Electronic Information Engineering <br />
+      #       <mark>Thesis</mark> Electronic circuit system. 
 
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: left
+        title: ArXiv 2023
+        # caption: 
+        sub_title: <blue_mark>Under review</blue_mark>
+        description: | # this will include new lines to allow paragraphs
+          ## **Realistic Noise Synthesis with Diffusion Models**
+          Qi Wu, Mingyan Han, **Ting Jiang**, Haoqiang Fan, Bing Zeng, Shuaicheng Liu
+
       - layout: left
         title: CVPRW 2023
         # caption: 
@@ -120,9 +128,13 @@ content:
         description: | # this will include new lines to allow paragraphs
           ## **DIPNet: Efficiency Distillation and Iterative Pruning for Image Super-Resolution**
           Lei Yu, Xinpeng Li, Youwei Li, **Ting Jiang**, Qi Wu, Haoqiang Fan, Shuaicheng Liu
-
+          [[PDF]( https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Yu_DIPNet_Efficiency_Distillation_and_Iterative_Pruning_for_Image_Super-Resolution_CVPRW_2023_paper.pdf
+)]
+          [[Github](https://github.com/xiumu00/DIPNet)]
+          # [Video: [Youtube](https://www.youtube.com/watch?v=M0X-BXe3UqM&t=2s), [Bilibili](https://www.bilibili.com/video/BV19h411a78M/)]
+          [[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:0ccJKoXHO3YJ:scholar.google.com/&output=citation&scisdr=Cm0wvJcrEJz3oTa1L14:AGlGAw8AAAAAZJKzN17vlfz03c2nhwRwF3CceJ0&scisig=AGlGAw8AAAAAZJKzN_aKBEMPChSSQvZ0ghHK4vg&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
       - layout: left
-        title: arxiv 2023
+        title: ICCV 2023
         # caption: 
         sub_title: <blue_mark>Under review</blue_mark>
         description: | # this will include new lines to allow paragraphs
@@ -130,7 +142,7 @@ content:
           **Ting Jiang**, Chuan Wang, Xinpeng Li, Haoqiang Fan, Shuaicheng Liu
 
       - layout: left
-        title: arxiv 2023
+        title: ICCV 2023
         # caption: 
         sub_title: <blue_mark>Under review</blue_mark
         description: | # this will include new lines to allow paragraphs
@@ -138,7 +150,7 @@ content:
           **Ting Jiang**, Haibing Huang, Ru Li, Haoqiang Fan, Shuaicheng Liu
       
       - layout: left
-        title: arxiv 2023
+        title: Pattern Recognition 2023
         # caption: 
         sub_title: <blue_mark>Under review</blue_mark>
         description: | # this will include new lines to allow paragraphs
@@ -154,20 +166,20 @@ content:
           Wenjie Lin, Chuan Wang, **Ting Jiang**, Haoqiang Fan, Shuaicheng Liu
       
       - layout: left
-        title: TIP 2022
+        title: TCSVT 2023
         # caption: 
         sub_title: <blue_mark>Under review</blue_mark>
         description: | # this will include new lines to allow paragraphs
           ## **Kernel-aware Dual-level Statistical Distance for Image Quality Assessment with Relaxed Reference**
           Xinpeng Li, **Ting Jiang**, Qingbo Wu, Shuaicheng Liu
       
-      - layout: left
-        title: TGRS 2022 
-        # caption: 
-        sub_title: <blue_mark>Under review</blue_mark>
-        description: | # this will include new lines to allow paragraphs
-          ## **Absorption Pruning of Deep Neural Network for Object Detection in Remote Sensing Imagery**
-          Jielei Wang, **Ting Jiang**, Zongyong Cui, Zongjie Cao
+      # - layout: left
+      #   title: TGRS 2022 
+      #   # caption: 
+      #   sub_title: <blue_mark>Under review</blue_mark>
+      #   description: | # this will include new lines to allow paragraphs
+      #     ## **Absorption Pruning of Deep Neural Network for Object Detection in Remote Sensing Imagery**
+      #     Jielei Wang, **Ting Jiang**, Zongyong Cui, Zongjie Cao
 
       - layout: left
         title: TIP 2022
@@ -176,6 +188,8 @@ content:
         description: | # this will include new lines to allow paragraphs
           ## **Efficient Neural Architecture Search via firefly optimization for SAR ship detection**
           Jielei Wang, **Ting Jiang**, Zongyong Cui, Changjie Cao, Zongjie Cao
+          [[Paper]( https://ieeexplore.ieee.org/abstract/document/9999699/)]
+          [[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:NpmxWmXEFKgJ:scholar.google.com/&output=citation&scisdr=Cm0wvJcrEJz3oTa3sIs:AGlGAw8AAAAAZJKxqIsxSH0SsEI5tetyt_2BzWw&scisig=AGlGAw8AAAAAZJKxqMykfMzVAyCZcqWzm8J-1rc&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
 
       - layout: left
         title: CVPRW 2021
@@ -196,7 +210,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           ## **Filter Pruning with a Feature Map Entropy Importance Criterion for Convolution Neural Networks Compressing**
           Jielei Wang, **Ting Jiang**, Zongyong Cui, Zongjie Cao  
-          [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S092523122101078X)]
+          [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S092523122101078X)]
           [[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:W5Y6IjacCXMJ:scholar.google.com/&output=citation&scisdr=CgX7dAiIEPLblS6f6f0:AAGBfm0AAAAAYaiZ8f3mBG7uSNMy8SQbSmkDPpRR3XC3&scisig=AAGBfm0AAAAAYaiZ8Ws0rRq80UAZsZNInzQYHjniOy4y&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
       
       - layout: left
@@ -206,6 +220,8 @@ content:
         description: | # this will include new lines to allow paragraphs
           ## **A Knowledge Distillation Method Based on IQE Attention Mechanism for Target Recognition in Sar Imagery**
           Jielei Wang, **Ting Jiang**, Zongyong Cui, Zongjie Cao, Changjie Cao 
+          [[Paper](https://ieeexplore.ieee.org/abstract/document/9883376/)]
+          [[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:ZTiRTn2OIsMJ:scholar.google.com/&output=citation&scisdr=Cm0wvJcrEJz3oTa27ao:AGlGAw8AAAAAZJKw9apMbCrITuxB3H0Lu9jT8h8&scisig=AGlGAw8AAAAAZJKw9bjU0LmL4D7gSXB5h24ATAc&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
       
       - layout: left
         title: IGARSS 2018
@@ -348,7 +364,15 @@ content:
           In extreme scenarios, the noise is improved, and it is suitable for various mobile devices, such as mobile phones, vehicles, drones, robots, etc.
         img_path3: images/dzjz.png
         img_path5: images/szjz.png
-
+      
+      - layout: left
+        title: Super Resolution
+        caption: Jul. 2019 - Present
+        sub_title: Algorithm Leader
+        description: | # this will include new lines to allow paragraphs
+          The recovery effect of details in the smart phone super resolution project is better than that of the competitor.
+        img_path6: images/sr.png
+      
       - layout: left
         title: Portrait beauty
         caption: Jul. 2019 - Present
@@ -375,6 +399,8 @@ content:
         description: | # this will include new lines to allow paragraphs
           The recovery effect of details in the smart erasing project is better than that of competing models.
         img_path6: images/inpainting.png
+
+      
       
 
 # Footer
