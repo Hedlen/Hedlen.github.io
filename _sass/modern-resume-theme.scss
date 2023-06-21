@@ -60,7 +60,7 @@
 }
 
 .layout {
-  margin-top: 0rem;
+  margin-top: 3rem;
   display: flex;
   flex-direction: row;
 
@@ -75,7 +75,9 @@
 
       b {
         font-weight: 500;
-
+        padding: 1px;
+        margin-bottom: 1px;
+        
       }
     }
 
