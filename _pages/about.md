@@ -154,10 +154,7 @@ Zhi Zhou, Zongjie Cao, Yiming Pi, <u>Ting Jiang</u>
 ***<font color = "#224B8D">International Geoscience and Remote Sensing Symposium (IGRASS) 2018</font>*** \| [[Paper](https://sci-hub.se/10.1109/igarss.2018.8519004)]
 
 # 🧵 Projects
-div class='paper-box'><div class='paper-box-image'><video src='images/DMS_phone_demo.mp4' alt="sym" width="33%">
-<!-- <video src="http://www.w3school.com.cn/i/movie.mp4" controls="" height=400 width=600> </video> -->
-<video src='images/DMS_smoke_demo1.mp4' alt="sym" width="33%"><video src='images/DMS_phone_demo2.mp4' alt="sym" width="33%"></div>
-<div class='paper-box-text' markdown="1">
+div class='paper-box'><div class='paper-box-image'><video src='images/DMS_phone_demo.mp4' alt="sym" width="33%"><video src='images/DMS_smoke_demo1.mp4' alt="sym" width="33%"><video src='images/DMS_phone_demo2.mp4' alt="sym" width="33%"></div><div class='paper-box-text' markdown="1">
 
 **Driver Monitor System**  
 - Dec. 2018 - Jul. 2019, Major Membor
