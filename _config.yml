@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Ting Jiang"
 description              : "Focusing on Computer Vision, Computer Graphics, AIGC. tjhedlen@gmail.com"
-repository               : "Algolzw/Algolzw.github.io"
+repository               : "Hedlen/Hedlen.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -28,7 +28,7 @@ author:
   employer         : "MEGVII"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=vwVneW4AAAAJ&hl=zh-CN"
-  email            : "tjhedlen@gmail.com & jiangting@megvii.com"
+  email            : "tjhedlen@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

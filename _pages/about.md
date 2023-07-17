@@ -46,7 +46,7 @@ Ting Jiang received his Master degree at Information and Communication Engineeri
 
 <!-- ###################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/sam_iqa.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/meflut.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **MEFLUT: Unsupervised Learning 1D Lookup Tables for Multi-exposure Image Fusion**  
