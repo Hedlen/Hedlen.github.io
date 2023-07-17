@@ -167,7 +167,7 @@ Zhi Zhou, Zongjie Cao, Yiming Pi, <u>Ting Jiang</u>
 
 <!-- ###################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/hdr_full.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/hdr_full.png' alt="sym" width="110%"></div>
 <div class='paper-box-text' markdown="1">
 
 **High Dynamic Range Image (HDRI)**  
