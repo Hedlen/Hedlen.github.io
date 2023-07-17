@@ -156,7 +156,7 @@ Zhi Zhou, Zongjie Cao, Yiming Pi, <u>Ting Jiang</u>
 ***<font color = "#224B8D">International Geoscience and Remote Sensing Symposium (IGRASS) 2018</font>*** \| [[Paper](https://sci-hub.se/10.1109/igarss.2018.8519004)]
 
 # 🧵 Projects
-<div class='paper-box'><div class='paper-box-image'><video src='images/DMS_phone_demo.mp4' controls="" width="33%"></video><video src='images/DMS_smoke_demo1.mp4' controls="" width="33%"></video><video src='images/DMS_smoke_demo2.mp4' controls="" width="33%"></video></div>
+<div class='paper-box'><div class='paper-box-image'><video src='images/DMS_phone_demo.mp4' controls="" width="100%"></video><video src='images/DMS_smoke_demo1.mp4' controls="" width="100%"></video><video src='images/DMS_smoke_demo2.mp4' controls="" width="100%"></video></div>
 <div class='paper-box-text' markdown="1">
 
 **Driver Monitor System**  
@@ -189,7 +189,7 @@ Zhi Zhou, Zongjie Cao, Yiming Pi, <u>Ting Jiang</u>
 
 <!-- ###################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/cjyj_full.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/dzjz.png' alt="sym" width="100%"><img src='images/szjz.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **Multi-frame & Single-frame Denoising**  
