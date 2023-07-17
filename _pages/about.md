@@ -161,7 +161,8 @@ Zhi Zhou, Zongjie Cao, Yiming Pi, <u>Ting Jiang</u>
 
 **Driver Monitor System**  
 - Dec. 2018 - Jul. 2019, Major Membor
-- Responsible for designing a light-weighted end-to-end network running on an onboard chip to detect smoking, phoning, and drinking in driving. I participated in the overall pipeline of algorithm development, including data collection, data cleaning, algorithm development, etc.
+- Responsible for designing a light-weighted end-to-end network running on an onboard chip to detect smoking, phoning, and drinking in driving. 
+- I participated in the overall pipeline of algorithm development, including data collection, data cleaning, algorithm development, etc.
 </div>
 </div>
 
@@ -172,7 +173,7 @@ Zhi Zhou, Zongjie Cao, Yiming Pi, <u>Ting Jiang</u>
 
 **High Dynamic Range Image (HDRI)**  
 - Jul. 2019 - Present, Algorithm Leader
-- Responsible for HDRI projects, including YUV and RAW domains. Compared with ordinary images, HDRI can provide more dynamic range and image details, according to different exposure time Low Dynamic Range (LDRI) images, use each exposure time corresponds to the LDRI with the best details to synthesize the final HDRI, which can better reflect the visual effects in the real environment of people.
+- Responsible for HDRI projects, including YUV and RAW domains. Compared with ordinary images, HDRI can provide more dynamic range and image details, which can better reflect the visual effects in the real environment of people.
 </div>
 </div>
 
@@ -194,7 +195,7 @@ Zhi Zhou, Zongjie Cao, Yiming Pi, <u>Ting Jiang</u>
 
 **Multi-frame or Single-frame Denoising**  
 - Oct. 2021 - Present, Algorithm Leader
-- Responsible for image and video denoising projects, including YUV and RAW domains. In extreme scenarios, the noise is improved, and it is suitable for various mobile devices, such as mobile phones, vehicles, drones, robots, etc.
+- Responsible for image and video denoising projects, including YUV and RAW domains. In extreme scenarios, the noise is improved, and it is suitable for various mobile devices, such as mobile phones, vehicles, drones, robots, etc. 
 </div>
 </div>
 
@@ -216,7 +217,8 @@ Zhi Zhou, Zongjie Cao, Yiming Pi, <u>Ting Jiang</u>
 
 **Portrait Beauty**  
 - Jul. 2019 - Nov. 2019, Algorithm Leader
-- Responsible for Portrait beauty projects. Adjust the face area adaptively to achieve the effect of beautifying portraits. As a team leader, lead team members to develop a new type of beautifying algorithm, and successfully applied to products and widely used.
+- Responsible for leading Portrait beauty projects. As a team leader, I led team members in developing a novel beautifying algorithm capable of adaptive face area adjustment to achieve effective portrait enhancement. This algorithm was successfully applied to products and widely adopted.
+- 
 </div>
 </div>
 
