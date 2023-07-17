@@ -156,7 +156,7 @@ Zhi Zhou, Zongjie Cao, Yiming Pi, <u>Ting Jiang</u>
 # 🧵 Projects
 <div class='paper-box'><div class='paper-box-image'><video src='images/DMS_phone_demo.mp4' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
-<!-- <video src='images/DMS_smoke_demo1.mp4' alt="sym" width="33%"><video src='images/DMS_phone_demo2.mp4' alt="sym" width="33%"> -->
+
 **Driver Monitor System**  
 - Dec. 2018 - Jul. 2019, Major Membor
 - Responsible for designing a light-weighted end-to-end network running on an onboard chip to detect smoking, phoning, and drinking in driving. I participated in the overall pipeline of algorithm development, including data collection, data cleaning, algorithm development, etc.
