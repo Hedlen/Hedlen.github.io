@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Ting Jiang"
+title                    : "Ting Jiang (蒋霆)"
 description              : "Focusing on Computer Vision, Computer Graphics, AIGC. tjhedlen@gmail.com"
 repository               : "Hedlen/Hedlen.github.io"
 google_scholar_stats_use_cdn : true
