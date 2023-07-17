@@ -54,7 +54,7 @@ I received my Master degree at Information and Communication Engineering in Univ
 **MEFLUT: Unsupervised Learning 1D Lookup Tables for Multi-exposure Image Fusion**  
 <u>Ting Jiang</u>, Chuan Wang, Xinpeng Li, Ru Li, Haoqiang Fan, Shuaicheng Liu
 
-**<font color = "#224B8D">International Conference on Computer Vision （ICCV） 2023</font>** \| [Paper]()  <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+**<font color = "#224B8D">International Conference on Computer Vision （ICCV） 2023</font>** \| <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 - This work first introduce the SAM encoder as a feature extractor in IQA and demonstrate its strong generalization ability in this domain
 </div>
 </div>
