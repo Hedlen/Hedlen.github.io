@@ -141,21 +141,22 @@ Jielei Wang, <u>Ting Jiang</u>, Zongyong Cui, Zongjie Cao
 
 <!-- ###################################################### -->
 
+- **A Knowledge Distillation Method Based on IQE Attention Mechanism for Target Recognition in Sar Imagery**  
+Jielei Wang, <u>Ting Jiang</u>, Zongyong Cui, Zongjie Cao, Changjie Cao 
+***<font color = "#224B8D">International Geoscience and Remote Sensing Symposium (IGRASS) 2022 Oral</font>*** \| [[Paper](https://ieeexplore.ieee.org/abstract/document/9883376/)]
+
 - **Data augmentation with Gabor filter in deep convolutional neural networks for SAR target recognition**  
 <u>Ting Jiang</u>, Zongyong Cui, Zhi Zhou, Zongjie Cao 
 ***<font color = "#224B8D">International Geoscience and Remote Sensing Symposium (IGRASS) 2022</font>*** \| [[Paper](https://ieeexplore.ieee.org/abstract/document/8518792/)]
-
-- **A Knowledge Distillation Method Based on IQE Attention Mechanism for Target Recognition in Sar Imagery**  
-Jielei Wang, <u>Ting Jiang</u>, Zongyong Cui, Zongjie Cao, Changjie Cao 
-***<font color = "#224B8D">International Geoscience and Remote Sensing Symposium (IGRASS) 2022</font>*** \| [[Paper](https://ieeexplore.ieee.org/abstract/document/9883376/)]
 
 - **Adaptive Weighted Multi-Task Sparse Representation Classification in SAR Image Recognition**  
 Zhi Zhou, Zongjie Cao, Yiming Pi, <u>Ting Jiang</u>  
 ***<font color = "#224B8D">International Geoscience and Remote Sensing Symposium (IGRASS) 2018</font>*** \| [[Paper](https://sci-hub.se/10.1109/igarss.2018.8519004)]
 
 # 🧵 Projects
-<div class='paper-box'><div class='paper-box-image'><video src='images/DMS_phone_demo.mp4' alt="sym" width="33%"><video src='images/DMS_smoke_demo1.mp4' alt="sym" width="33%"><video src='images/DMS_phone_demo2.mp4' alt="sym" width="33%"></div><div class='paper-box-text' markdown="1">
-
+<div class='paper-box'><div class='paper-box-image'><video src='images/DMS_phone_demo.mp4' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+<!-- <video src='images/DMS_smoke_demo1.mp4' alt="sym" width="33%"><video src='images/DMS_phone_demo2.mp4' alt="sym" width="33%"> -->
 **Driver Monitor System**  
 - Dec. 2018 - Jul. 2019, Major Membor
 - Responsible for designing a light-weighted end-to-end network running on an onboard chip to detect smoking, phoning, and drinking in driving. I participated in the overall pipeline of algorithm development, including data collection, data cleaning, algorithm development, etc.
@@ -167,11 +168,11 @@ Zhi Zhou, Zongjie Cao, Yiming Pi, <u>Ting Jiang</u>
 
 # 🎖 Honors and Awards
 - *2023* **2nd** place in NTIRE Image Shadow Removal Challenge (2st place on perceptual scores)
-- *2023, **Winner Award** in NTIRE 2023 Efficient Super-resolution Challenge
-- *2022, *2023, **Runner up Award** in MIPI RGBW Joint Fusion and Denoise Challenge
-- *2021, **Winner Award** in NTIRE 2021 High Dynamic Range Challenge (Multiple Frames)
-- *2021, **MegTeam Award** in MEGVII Research
-- *2021, *2023, **Excellent Team Award** in MEGVII Research
+- *2023*, **Winner Award** in NTIRE 2023 Efficient Super-resolution Challenge
+- *2022*, *2023*, **Runner up Award** in MIPI RGBW Joint Fusion and Denoise Challenge
+- *2021*, **Winner Award** in NTIRE 2021 High Dynamic Range Challenge (Multiple Frames)
+- *2021*, **MegTeam Award** in MEGVII Research
+- *2021*, *2023*, **Excellent Team Award** in MEGVII Research
 - *2019* **Outstanding Graduates**, University of Electronic Science and Technology of China (UESTC)
 - *2015* **Outstanding Graduates**, University of South China (USC) 
 - *2014* **The First Prize Scholarship**, University of South China (USC)
@@ -201,5 +202,5 @@ Zhi Zhou, Zongjie Cao, Yiming Pi, <u>Ting Jiang</u>
 - *2021.03 - present*, Technical Director, at [Megvii Technology](https://megvii.com/), China.
 - *2019.03 - 2021.03*, Research Assistant, at [Megvii Technology](https://megvii.com/), China.
 - *2018.11 - 2019.03*, Research Intern, at [Megvii Technology](https://megvii.com/), China.
-- *2018.5 - 2020.11*, Research Intern, at [SenseTime Technology](https://www.sensetime.com/), China.
-- *2017.5 - 2018.05*, Research Assistant, at [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/), China.
+- *2018.05 - 2020.11*, Research Intern, at [SenseTime Technology](https://www.sensetime.com/), China.
+- *2017.05 - 2018.05*, Research Assistant, at [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/), China.
