@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Ting Jiang (蒋霆)"
   avatar           : "images/white_bg.jpg"
-  bio              : "Technical Director in CV & AIGC at MEGVII Research"
+  bio              : "Technical Director in CV, CG and AIGC at MEGVII Research"
   location         : "Chengdu, China"
   employer         : "MEGVII"
   pubmed           : 
@@ -46,7 +46,7 @@ author:
   linkedin         : # e.g., "linkedin username"
   dblp             : "https://dblp.org/pid/55/1756.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
-  Resume           : "https://hedlen.github.io/tj.pdf"
+  resume           : "tj.pdf"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

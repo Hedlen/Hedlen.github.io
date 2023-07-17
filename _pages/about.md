@@ -120,7 +120,7 @@ Jielei Wang, Zongyong Cui, <u>Ting Jiang</u>, Changjie Cao, Zongjie Cao
 Zhen Liu, Wenjie Lin, Xinpeng Li, <u>Ting Jiang</u>, Mingyan Han, Qing Rao, Haoqiang Fan, Jian Sun, Shuaicheng Liu
 
 **<font color = "#224B8D">EEE Conference on Computer Vision and Pattern Recognition Workshop (CVPRW) 2021</font>** \| [Paper](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Liu_ADNet_Attention-Guided_Deformable_Convolutional_Network_for_High_Dynamic_Range_Imaging_CVPRW_2021_paper.pdf) \| [Code](https://github.com/liuzhen03/ADNet) \| [Video: [Youtube](https://www.youtube.com/watch?v=M0X-BXe3UqM&t=2s), [Bilibili](https://www.bilibili.com/video/BV19h411a78M/)] <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-- This work proposes a novel dual-branch pipeline for multiframe HDR imaging of dynamic scenes. Unlike previous methods that treat the LDR and gamma-corrected images uniformly, we process the LDR images with a spatial attention module and process the corresponding gamma-corrected images with a PCD alignment module.
+- This work proposes a novel dual-branch pipeline for multiframe HDR imaging of dynamic scenes.
 <!-- - A deep constrained least square filtering module is applied in the feature space to generate clean features based on the estimated kernel. -->
 </div>
 </div>
@@ -153,16 +153,15 @@ Jielei Wang, <u>Ting Jiang</u>, Zongyong Cui, Zongjie Cao, Changjie Cao
 Zhi Zhou, Zongjie Cao, Yiming Pi, <u>Ting Jiang</u>  
 ***<font color = "#224B8D">International Geoscience and Remote Sensing Symposium (IGRASS) 2018</font>*** \| [[Paper](https://sci-hub.se/10.1109/igarss.2018.8519004)]
 
-<!-- # 🧵 Projects
-div class='paper-box'><div class='paper-box-image'><img src='images/DMS_' alt="sym" width="100%"></div>
+# 🧵 Projects
+div class='paper-box'><div class='paper-box-image'><img src='images/DMS_phone_demo.mp4' alt="sym" width="33%"><img src='images/DMS_smoke_demo1.mp4' alt="sym" width="33%"><img src='images/DMS_phone_demp.mp4' alt="sym" width="33%"><img src='images/DMS_phone_demo2.mp4' alt="sym" width="33%"></div>
 <div class='paper-box-text' markdown="1">
 
 **Driver Monitor System**  
 - Dec. 2018 - Jul. 2019, Major Membor
-- Responsible for designing a light-weighted end-to-end network running on an onboard chip to detect smoking, phoning, and drinking in driving. I participated in the overall pipeline of algorithm development, including data collection, 
-data cleaning, algorithm development, and upgrading.
+- Responsible for designing a light-weighted end-to-end network running on an onboard chip to detect smoking, phoning, and drinking in driving. I participated in the overall pipeline of algorithm development, including data collection, data cleaning, algorithm development, etc.
 </div>
-</div> -->
+</div>
 
 <!-- ###################################################### -->
 
@@ -203,5 +202,5 @@ data cleaning, algorithm development, and upgrading.
 - *2021.03 - present*, Technical Director, at [Megvii Technology](https://megvii.com/), China.
 - *2019.03 - 2021.03*, Research Assistant, at [Megvii Technology](https://megvii.com/), China.
 - *2018.11 - 2019.03*, Research Intern, at [Megvii Technology](https://megvii.com/), China.
-- *2018.5 - 2020.11*, Research Intern, at [SenseTime Technology](https://megvii.com/), China.
+- *2018.5 - 2020.11*, Research Intern, at [SenseTime Technology](https://www.sensetime.com/), China.
 - *2017.5 - 2018.05*, Research Assistant, at [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/), China.
