@@ -165,7 +165,7 @@ Zhi Zhou, Zongjie Cao, Yiming Pi, <u>Ting Jiang</u>
 
 <!-- ###################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><image src='images/hdr_full.png' alt="sym" width="100%"></video></div>
+<div class='paper-box'><div class='paper-box-image'><image src='images/hdr_full.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **High Dynamic Range Image (HDRI)**  
@@ -176,7 +176,7 @@ Zhi Zhou, Zongjie Cao, Yiming Pi, <u>Ting Jiang</u>
 
 <!-- ###################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><image src='images/cjyj_full.png' alt="sym" width="100%"></video></div>
+<div class='paper-box'><div class='paper-box-image'><image src='images/cjyj_full.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **Super night view**  
@@ -187,7 +187,7 @@ Zhi Zhou, Zongjie Cao, Yiming Pi, <u>Ting Jiang</u>
 
 <!-- ###################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><image src='images/cjyj_full.png' alt="sym" width="100%"></video></div>
+<div class='paper-box'><div class='paper-box-image'><image src='images/cjyj_full.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **Multi-frame & Single-frame Denoising**  
@@ -198,7 +198,7 @@ Zhi Zhou, Zongjie Cao, Yiming Pi, <u>Ting Jiang</u>
 
 <!-- ###################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><image src='images/sr.png' alt="sym" width="100%"></video></div>
+<div class='paper-box'><div class='paper-box-image'><image src='images/sr.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **Super Resolution (SR)**  
@@ -219,7 +219,7 @@ Zhi Zhou, Zongjie Cao, Yiming Pi, <u>Ting Jiang</u>
 </div>
 
 <!-- ###################################################### -->
-<div class='paper-box'><div class='paper-box-image'><image src='images/gjjc.png' alt="sym" width="100%"></video></div>
+<div class='paper-box'><div class='paper-box-image'><image src='images/gjjc.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **Object Detection**  
@@ -229,7 +229,7 @@ Zhi Zhou, Zongjie Cao, Yiming Pi, <u>Ting Jiang</u>
 </div>
 
 <!-- ###################################################### -->
-<div class='paper-box'><div class='paper-box-image'><image src='images/inpainting.png' alt="sym" width="100%"></video></div>
+<div class='paper-box'><div class='paper-box-image'><image src='images/inpainting.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **Intelligent Erase**  
