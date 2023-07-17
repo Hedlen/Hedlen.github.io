@@ -192,7 +192,7 @@ Zhi Zhou, Zongjie Cao, Yiming Pi, <u>Ting Jiang</u>
 <div class='paper-box'><div class='paper-box-image'><img src='images/dzjz.png' alt="sym" width="100%"><img src='images/szjz.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-**Multi-frame & Single-frame Denoising**  
+**Multi-frame or Single-frame Denoising**  
 - Oct. 2021 - Present, Algorithm Leader
 - Responsible for image & video denoising projects, including YUV & RAW domin. In extreme scenarios, the noise is improved, and it is suitable for various mobile devices, such as mobile phones, vehicles, drones, robots, etc.
 </div>
