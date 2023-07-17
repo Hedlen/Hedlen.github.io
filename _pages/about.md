@@ -165,6 +165,81 @@ Zhi Zhou, Zongjie Cao, Yiming Pi, <u>Ting Jiang</u>
 
 <!-- ###################################################### -->
 
+<div class='paper-box'><div class='paper-box-image'><image src='images/hdr_full.png' alt="sym" width="100%"></video></div>
+<div class='paper-box-text' markdown="1">
+
+**High Dynamic Range Image (HDRI)**  
+- Jul. 2019 - Present, Algorithm Leader
+- Responsible for HDRI projects, including YUV & RAW domin. Compared with ordinary images, HDRI can provide more dynamic range and image details, according to different exposure time Low Dynamic Range (LDRI) images, use each exposure time corresponds to the LDRI with the best details to synthesize the final HDRI, which can better reflect the visual effects in the real environment of people.
+</div>
+</div>
+
+<!-- ###################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><image src='images/cjyj_full.png' alt="sym" width="100%"></video></div>
+<div class='paper-box-text' markdown="1">
+
+**Super night view**  
+- Jul. 2019 - Present, Algorithm Leader
+- Responsible for Super night view projects, including YUV & RAW domin. In hand-held super night scene, improve night scene brightness, clarity, noise, dynamic range and other performance.
+</div>
+</div>
+
+<!-- ###################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><image src='images/cjyj_full.png' alt="sym" width="100%"></video></div>
+<div class='paper-box-text' markdown="1">
+
+**Multi-frame & Single-frame Denoising**  
+- Oct. 2021 - Present, Algorithm Leader
+- Responsible for image & video denoising projects, including YUV & RAW domin. In extreme scenarios, the noise is improved, and it is suitable for various mobile devices, such as mobile phones, vehicles, drones, robots, etc.
+</div>
+</div>
+
+<!-- ###################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><image src='images/sr.png' alt="sym" width="100%"></video></div>
+<div class='paper-box-text' markdown="1">
+
+**Super Resolution (SR)**  
+- Jul. 2022 - Present, Algorithm Leader
+- Responsible for image & video SR projects, including YUV & RAW domin. The recovery effect of details in the smart phone super resolution project is better than that of the competitor.
+</div>
+</div>
+
+<!-- ###################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><image src='images/b.png' alt="sym" width="33%"></video></image><image src='images/b1.png' alt="sym" width="33%"></video></image><image src='images/b2.png' alt="sym" width="33%"></video></image></div>
+<div class='paper-box-text' markdown="1">
+
+**Portrait beauty**  
+- Jul. 2019 - Nov. 2019, Algorithm Leader
+- Responsible for Portrait beauty projects. Adjust the face area adaptively to achieve the effect of beautifying portraits. As a team leader, lead team members to develop a new type of beautifying algorithm, and successfully applied to products and widely used.
+</div>
+</div>
+
+<!-- ###################################################### -->
+<div class='paper-box'><div class='paper-box-image'><image src='images/gjjc.png' alt="sym" width="100%"></video></div>
+<div class='paper-box-text' markdown="1">
+
+**Object Detection**  
+- Jul. 2021 - Mar. 2022, Algorithm Leader
+- Responsible for Object Detection projects. It mainly involves the detection of ghosts existing in the project to achieve precise positioning.
+</div>
+</div>
+
+<!-- ###################################################### -->
+<div class='paper-box'><div class='paper-box-image'><image src='images/inpainting.png' alt="sym" width="100%"></video></div>
+<div class='paper-box-text' markdown="1">
+
+**Intelligent Erase**  
+- Sep. 2021 - Mar. 2022, Algorithm Leader
+- Responsible for Intelligent Erase projects. The recovery effect of details in the smart erasing project is better than that of competing models.
+</div>
+</div>
+
+<!-- ###################################################### -->
+
 
 # 🎖 Honors and Awards
 - *2023* **2nd** place in NTIRE Image Shadow Removal Challenge (2st place on perceptual scores)
