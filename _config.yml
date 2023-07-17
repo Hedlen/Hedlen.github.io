@@ -118,6 +118,14 @@ content:
         # caption: 
         sub_title: <blue_mark>Under review</blue_mark>
         description: | # this will include new lines to allow paragraphs
+          ## **SAM-IQA: Can Segment Anything Boost Image Quality Assessment?**
+          Xinpeng Li, **Ting Jiang**, Haoqiang Fan, Shuaicheng Liu
+
+      - layout: left
+        title: ArXiv 2023
+        # caption: 
+        sub_title: <blue_mark>Under review</blue_mark>
+        description: | # this will include new lines to allow paragraphs
           ## **Realistic Noise Synthesis with Diffusion Models**
           Qi Wu, Mingyan Han, **Ting Jiang**, Haoqiang Fan, Bing Zeng, Shuaicheng Liu
 
@@ -134,7 +142,7 @@ content:
       - layout: left
         title: ICCV 2023
         # caption: 
-        sub_title: <blue_mark>Under review</blue_mark>
+        sub_title: <blue_mark>Accepted</blue_mark>
         description: | # this will include new lines to allow paragraphs
           ## **MEFLUT: Unsupervised Learning 1D Lookup Tables for Multi-exposure Image Fusion**
           **Ting Jiang**, Chuan Wang, Xinpeng Li, Haoqiang Fan, Shuaicheng Liu
