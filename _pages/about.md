@@ -179,7 +179,7 @@ Zhi Zhou, Zongjie Cao, Yiming Pi, <u>Ting Jiang</u>
 <div class='paper-box'><div class='paper-box-image'><img src='images/cjyj_full.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-**Super night view**  
+**Super Night View**  
 - Jul. 2019 - Present, Algorithm Leader
 - Responsible for Super night view projects, including YUV & RAW domin. In hand-held super night scene, improve night scene brightness, clarity, noise, dynamic range and other performance.
 </div>
@@ -212,7 +212,7 @@ Zhi Zhou, Zongjie Cao, Yiming Pi, <u>Ting Jiang</u>
 <div class='paper-box'><div class='paper-box-image'><img src='images/b.png' alt="sym" width="33%"><img src='images/b1.png' alt="sym" width="33%"><img src='images/b2.png' alt="sym" width="33%"></div>
 <div class='paper-box-text' markdown="1">
 
-**Portrait beauty**  
+**Portrait Beauty**  
 - Jul. 2019 - Nov. 2019, Algorithm Leader
 - Responsible for Portrait beauty projects. Adjust the face area adaptively to achieve the effect of beautifying portraits. As a team leader, lead team members to develop a new type of beautifying algorithm, and successfully applied to products and widely used.
 </div>
