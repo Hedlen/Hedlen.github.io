@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received my Master degree at Information and Communication Engineering in University of Electronic Science and Technology of China (UESTC), supervised by [Prof. Yiming Pi](https://www.researchgate.net/scientific-contributions/Yiming-Pi-13739828) and [Prof. Zongjie Cao](https://www.researchgate.net/scientific-contributions/Zongjie-Cao-33269443), in 2019. I obtained my Bachelor degree at Electronic Information Engineering in University of South China (USC) in 2015. During in internship, I was luckily mentored by [Dr. Zhanghui Kuang](https://scholar.google.com/citations?hl=zh-CN&user=z4wkHDgAAAAJ) at SenseTime and [Prof. Shuaicheng Liu](http://www.liushuaicheng.org/), [Dr. Jue Wang](https://juewang725.github.io/) at MEGVII Research. I currently serves as the Technical Director at MEGVII Research. My research interests include Computer Vision, Computer Graphics, AIGC.
+I currently serve as the Technical Director at MEGVII Research. My research and project interests include Machine Learning, Computer Vision, and Computer Graphics, among others. Recently, I have been primarily focusing on Diffusion models with applications in Computer Vision.
+
+I received my Master degree at Information and Communication Engineering in University of Electronic Science and Technology of China (UESTC), supervised by [Prof. Yiming Pi](https://www.researchgate.net/scientific-contributions/Yiming-Pi-13739828) and [Prof. Zongjie Cao](https://www.researchgate.net/scientific-contributions/Zongjie-Cao-33269443), in 2019. I obtained my Bachelor degree at Electronic Information Engineering in University of South China (USC) in 2015. During in internship, I was luckily mentored by [Dr. Zhanghui Kuang](https://scholar.google.com/citations?hl=zh-CN&user=z4wkHDgAAAAJ) at SenseTime and [Prof. Shuaicheng Liu](http://www.liushuaicheng.org/), [Dr. Jue Wang](https://juewang725.github.io/) at MEGVII Research. 
 
 
 
