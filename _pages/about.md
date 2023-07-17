@@ -172,7 +172,7 @@ Zhi Zhou, Zongjie Cao, Yiming Pi, <u>Ting Jiang</u>
 
 **High Dynamic Range Image (HDRI)**  
 - Jul. 2019 - Present, Algorithm Leader
-- Responsible for HDRI projects, including YUV & RAW domin. Compared with ordinary images, HDRI can provide more dynamic range and image details, according to different exposure time Low Dynamic Range (LDRI) images, use each exposure time corresponds to the LDRI with the best details to synthesize the final HDRI, which can better reflect the visual effects in the real environment of people.
+- Responsible for HDRI projects, including YUV and RAW domains. Compared with ordinary images, HDRI can provide more dynamic range and image details, according to different exposure time Low Dynamic Range (LDRI) images, use each exposure time corresponds to the LDRI with the best details to synthesize the final HDRI, which can better reflect the visual effects in the real environment of people.
 </div>
 </div>
 
@@ -183,7 +183,7 @@ Zhi Zhou, Zongjie Cao, Yiming Pi, <u>Ting Jiang</u>
 
 **Super Night View**  
 - Jul. 2019 - Present, Algorithm Leader
-- Responsible for Super night view projects, including YUV & RAW domin. In hand-held super night scene, improve night scene brightness, clarity, noise, dynamic range and other performance.
+- Responsible for Super night view projects, including YUV and RAW domains. In hand-held super night scene, improve night scene brightness, clarity, noise, dynamic range and other performance.
 </div>
 </div>
 
@@ -194,7 +194,7 @@ Zhi Zhou, Zongjie Cao, Yiming Pi, <u>Ting Jiang</u>
 
 **Multi-frame or Single-frame Denoising**  
 - Oct. 2021 - Present, Algorithm Leader
-- Responsible for image & video denoising projects, including YUV & RAW domin. In extreme scenarios, the noise is improved, and it is suitable for various mobile devices, such as mobile phones, vehicles, drones, robots, etc.
+- Responsible for image and video denoising projects, including YUV and RAW domains. In extreme scenarios, the noise is improved, and it is suitable for various mobile devices, such as mobile phones, vehicles, drones, robots, etc.
 </div>
 </div>
 
@@ -205,7 +205,7 @@ Zhi Zhou, Zongjie Cao, Yiming Pi, <u>Ting Jiang</u>
 
 **Super Resolution (SR)**  
 - Jul. 2022 - Present, Algorithm Leader
-- Responsible for image & video SR projects, including YUV & RAW domin. The recovery effect of details in the smart phone super resolution project is better than that of the competitor.
+- Responsible for image and video SR projects, including YUV and RAW domains. The recovery effect of details in the smart phone super resolution project is better than that of the competitor.
 </div>
 </div>
 
