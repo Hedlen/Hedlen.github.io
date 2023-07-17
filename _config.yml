@@ -1,439 +1,164 @@
-# Site
-# repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
-favicon: images/favicon.ico
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve`. If you change this file, please restart the server process.
 
-# Content configuration version
-version: 2
+# Site Settings
+title                    : "Ting Jiang"
+description              : "Focusing on Computer Vision, Computer Graphics, AIGC. tjhedlen@gmail.com"
+repository               : "Algolzw/Algolzw.github.io"
+google_scholar_stats_use_cdn : true
 
-# Personal info
-name: Jiang Ting 蒋霆
-title: Computer Vision & Computer Graphics & LLM & AIGC
-email: tjhedlen@gmail.com
-website: https://hedlen.github.io
-resume: https://hedlen.github.io/tj.pdf
+# google analytics
+google_analytics_id      :  "G-9976N9H92G" # get google_analytics_id from https://analytics.google.com/analytics/
 
-# Dark Mode (true/false/never)
-darkmode: false
+# SEO Related
+google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
+bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
+baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
-# Social links
-# twitter_username: facespics
-github_username:  hedlen
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-# instagram_username: jameswgrant
-# linkedin_username: balazssandor
-# xing_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
+# Site Author
+author:
+  name             : "Ting Jiang (蒋霆)"
+  avatar           : "images/white_bg.jpg"
+  bio              : "Technical Director in CV & AIGC at MEGVII Research"
+  location         : "Chengdu, China"
+  employer         : "MEGVII"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=vwVneW4AAAAJ&hl=zh-CN"
+  email            : "tjhedlen@gmail.com & jiangting@megvii.com"
+  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "hedlen"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  linkedin         : # e.g., "linkedin username"
+  dblp             : "https://dblp.org/pid/55/1756.html"
+  orcid            : # e.g., "https://orcid.org/xxxx"
+  Resume           : "https://hedlen.github.io/tj.pdf"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          : 
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
 
-# Additional icon links (https://fontawesome.com/icons?d=gallery&m=free)
-additional_links:
-- title: google scholar
-  icon: fab fa-google
-  url: https://scholar.google.com/citations?user=vwVneW4AAAAJ&hl=zh-CN
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+  - files
+exclude:
+  - docs
+  - google_scholar_crawler
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - .github
+  - CHANGELOG
+  - Capfile
+  - Gemfile
+  - Gruntfile.js
+  - LICENSE
+  - README
+  - Rakefile
+  - assets/js/_main.js
+  - assets/js/plugins
+  - assets/js/vendor
+  - config
+  - gulpfile.js
+  - log
+  - node_modules
+  - package.json
+  - tmp
+  - vendor
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
 
-# About Section
-about_title: Biography
-about_profile_image: images/white_bg.jpg
-about_content: | # this will include new lines to allow paragraphs
-  Ting Jiang received his Master degree at Information and Communication Engineering in University of Electronic Science and Technology of China (UESTC), supervised by 
-  [Prof. Yiming Pi](https://www.researchgate.net/scientific-contributions/Yiming-Pi-13739828) and 
-  [Prof. Zongjie Cao](https://www.researchgate.net/scientific-contributions/Zongjie-Cao-33269443), in 2019. He obtained his Bachelor degree at Electronic Information Engineering in University of South China (USC) in 2015.
-  During in internship, he was luckily mentored by [Dr. Zhanghui Kuang](https://scholar.google.com/citations?hl=zh-CN&user=z4wkHDgAAAAJ) at SenseTime and [Prof. Shuaicheng Liu](http://www.liushuaicheng.org/), [Dr. Jue Wang](https://juewang725.github.io/) at MEGVII Research. He currently serves as the Technical Director at MEGVII Research. His research interests include Computer Vision, Computer Graphics, LLM and AIGC. 
-content:
-  # - title: Work Experience # Title for the section
-  #   layout: list # Type of content section (list/text)
-  #   content:                       
-  #     - layout: left
-  #       title: Technical Director
-  #       caption:  Mar. 2021 - Present
-  #       description: | # this will include new lines to allow paragraphs
-  #         ## **Megvii Research**
-  #         <mark>Feilds</mark> Responsible for the research and project delivery of computer vision and computer graphics algorithms, research and project directions include image or video HDR, image or video enhancement, noise reduction, alignment, beauty, dual camera, AIISP, IQA, 3D modeling and rendering, etc. The team currently has 10 FTE, some interns.
-      
-  #     - layout: left
-  #       title: Computer Vision Algorithm Researcher
-  #       # link: www.msg.group
-  #       # link_text: msg.group
-  #       # sub_title: 
-  #       caption:  Mar. 2019 - Mar. 2021
-  #       description: | # this will include new lines to allow paragraphs
-  #         ## **Megvii Research**
-  #         <mark>Feilds</mark>  Autonomous driving, intelligent cockpit, behavior detection, high dynamic range image etc.
-  #     - layout: left
-  #       title: Internship
-  #       # link: www.msg.group
-  #       # link_text: msg.group
-  #       # sub_title: 
-  #       caption:  Dec. 2018 - Mar. 2019
-  #       description: | # this will include new lines to allow paragraphs
-  #         ## **Megvii Research**
-  #         <mark>Feilds</mark> Model compression related algorithm research, research direction involves model distillation, pruning, quantization, model search etc.
-  #     - layout: left
-  #       title: Internship
-  #       # link: www.msg.group
-  #       # link_text: msg.group
-  #       # sub_title: 
-  #       caption: May. 2018 - Dec. 2018
-  #       description: | # this will include new lines to allow paragraphs
-  #         ## **SenseTime Research**
-  #         <mark>Feilds</mark> Face recognition and detection, image and video retrieval.
-      # - layout: left
-      #   title: M.Sc.
-      #   # link: grubhub.com
-      #   # link_text: grubhub.com
-      #   # sub_title: 
-      #   caption: Sept. 2016 - Jul. 2019
-      #   description: | # this will include new lines to allow paragraphs
-      #       ## **University of Electronic Science and Technology of China (UESTC)**
-      #       Information and Communication Engineering <br />
-      #       <mark>Thesis</mark> Target recognition, target detection, model compression.
-      # - layout: left
-      #   title: B.E.
-      #   # link: bmwgroup.com
-      #   # link_text: bmwgroup.com
-      #   # sub_title:  
-      #   caption: Sept. 2011 - Jul. 2015
-      #   description: | # this will include new lines to allow paragraphs
-      #       ## **University of South China (USC)**
-      #       Electronic Information Engineering <br />
-      #       <mark>Thesis</mark> Electronic circuit system. 
 
-  - title: Publications # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: ArXiv 2023
-        # caption: 
-        sub_title: <blue_mark>Under review</blue_mark>
-        description: | # this will include new lines to allow paragraphs
-          ## **SAM-IQA: Can Segment Anything Boost Image Quality Assessment?**
-          Xinpeng Li, **Ting Jiang**, Haoqiang Fan, Shuaicheng Liu
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
 
-      - layout: left
-        title: ArXiv 2023
-        # caption: 
-        sub_title: <blue_mark>Under review</blue_mark>
-        description: | # this will include new lines to allow paragraphs
-          ## **Realistic Noise Synthesis with Diffusion Models**
-          Qi Wu, Mingyan Han, **Ting Jiang**, Haoqiang Fan, Bing Zeng, Shuaicheng Liu
+# Defaults
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
+      author_profile: true
 
-      - layout: left
-        title: CVPRW 2023
-        # caption: 
-        sub_title: <blue_mark>Accepted. The winning method of the NTIRE 2023 Efficient Super-resolution Challenge</blue_mark>
-        description: | # this will include new lines to allow paragraphs
-          ## **DIPNet: Efficiency Distillation and Iterative Pruning for Image Super-Resolution**
-          Lei Yu, Xinpeng Li, Youwei Li, **Ting Jiang**, Qi Wu, Haoqiang Fan, Shuaicheng Liu
-          [[PDF](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Yu_DIPNet_Efficiency_Distillation_and_Iterative_Pruning_for_Image_Super-Resolution_CVPRW_2023_paper.pdf)]
-          [[Github](https://github.com/xiumu00/DIPNet)]
-          [[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:0ccJKoXHO3YJ:scholar.google.com/&output=citation&scisdr=Cm0wvJcrEJz3oTa1L14:AGlGAw8AAAAAZJKzN17vlfz03c2nhwRwF3CceJ0&scisig=AGlGAw8AAAAAZJKzN_aKBEMPChSSQvZ0ghHK4vg&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
-      - layout: left
-        title: ICCV 2023
-        # caption: 
-        sub_title: <blue_mark>Accepted</blue_mark>
-        description: | # this will include new lines to allow paragraphs
-          ## **MEFLUT: Unsupervised Learning 1D Lookup Tables for Multi-exposure Image Fusion**
-          **Ting Jiang**, Chuan Wang, Xinpeng Li, Haoqiang Fan, Shuaicheng Liu
 
-      - layout: left
-        title: ICCV 2023
-        # caption: 
-        sub_title: <blue_mark>Under review</blue_mark>
-        description: | # this will include new lines to allow paragraphs
-          ## **Multi-focus Image Fusion in Dynamic Scenes with a Hand-held Camera** 
-          **Ting Jiang**, Haibing Huang, Ru Li, Haoqiang Fan, Shuaicheng Liu
-      
-      - layout: left
-        title: Pattern Recognition 2023
-        # caption: 
-        sub_title: <blue_mark>Under review</blue_mark>
-        description: | # this will include new lines to allow paragraphs
-          ## **Reconstruction Flow Recurrent Network for Compressed Video Enhancement**
-          Xuhang Liu, Chuan Wang, **Ting Jiang**, Shuaicheng Liu
-      
-      - layout: left
-        title: arxiv 2023
-        # caption: 
-        sub_title: <blue_mark>Under review</blue_mark>
-        description: | # this will include new lines to allow paragraphs
-          ## **Low Exposure Reference HDR Deghosting with Frequency-based Reconstruction**
-          Wenjie Lin, Chuan Wang, **Ting Jiang**, Haoqiang Fan, Shuaicheng Liu
-      
-      - layout: left
-        title: TCSVT 2023
-        # caption: 
-        sub_title: <blue_mark>Under review</blue_mark>
-        description: | # this will include new lines to allow paragraphs
-          ## **Kernel-aware Dual-level Statistical Distance for Image Quality Assessment with Relaxed Reference**
-          Xinpeng Li, **Ting Jiang**, Qingbo Wu, Shuaicheng Liu
-      
-      # - layout: left
-      #   title: TGRS 2022 
-      #   # caption: 
-      #   sub_title: <blue_mark>Under review</blue_mark>
-      #   description: | # this will include new lines to allow paragraphs
-      #     ## **Absorption Pruning of Deep Neural Network for Object Detection in Remote Sensing Imagery**
-      #     Jielei Wang, **Ting Jiang**, Zongyong Cui, Zongjie Cao
-
-      - layout: left
-        title: TIP 2022
-        # caption: 
-        sub_title: <blue_mark>Accepted</blue_mark>
-        description: | # this will include new lines to allow paragraphs
-          ## **Efficient Neural Architecture Search via firefly optimization for SAR ship detection**
-          Jielei Wang, **Ting Jiang**, Zongyong Cui, Changjie Cao, Zongjie Cao
-          [[Paper]( https://ieeexplore.ieee.org/abstract/document/9999699/)]
-          [[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:NpmxWmXEFKgJ:scholar.google.com/&output=citation&scisdr=Cm0wvJcrEJz3oTa3sIs:AGlGAw8AAAAAZJKxqIsxSH0SsEI5tetyt_2BzWw&scisig=AGlGAw8AAAAAZJKxqMykfMzVAyCZcqWzm8J-1rc&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
-
-      - layout: left
-        title: CVPRW 2021
-        # caption: 
-        sub_title: <blue_mark>Accepted, The winning method of the first edition of NTIRE2021 Multi-Frame HDR Challenge</blue_mark>
-        description: | # this will include new lines to allow paragraphs
-          ## **ADNet: Attention-guided Deformable Convolutional Network for High Dynamic Range Imaging**
-          Zhen Liu, Wenjie Lin, Xinpeng Li, **Ting Jiang**, Mingyan Han, Qing Rao, Haoqiang Fan, Jian Sun, Shuaicheng Liu  
-          [[PDF](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Liu_ADNet_Attention-Guided_Deformable_Convolutional_Network_for_High_Dynamic_Range_Imaging_CVPRW_2021_paper.pdf)]
-          [[Github](https://github.com/liuzhen03/ADNet)]
-          [Video: [Youtube](https://www.youtube.com/watch?v=M0X-BXe3UqM&t=2s), [Bilibili](https://www.bilibili.com/video/BV19h411a78M/)]
-          [[BibTex](http://www.liushuaicheng.org/bibtex/CVPR21_ADNet.bib)]
-      
-      - layout: left
-        title: Neuro Computing 2021
-        # caption: 
-        sub_title: <blue_mark>Accepted</blue_mark>
-        description: | # this will include new lines to allow paragraphs
-          ## **Filter Pruning with a Feature Map Entropy Importance Criterion for Convolution Neural Networks Compressing**
-          Jielei Wang, **Ting Jiang**, Zongyong Cui, Zongjie Cao  
-          [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S092523122101078X)]
-          [[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:W5Y6IjacCXMJ:scholar.google.com/&output=citation&scisdr=CgX7dAiIEPLblS6f6f0:AAGBfm0AAAAAYaiZ8f3mBG7uSNMy8SQbSmkDPpRR3XC3&scisig=AAGBfm0AAAAAYaiZ8Ws0rRq80UAZsZNInzQYHjniOy4y&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
-      
-      - layout: left
-        title: IGARSS 2022
-        # caption: 
-        sub_title: <blue_mark>Accepted (Oral) </blue_mark>
-        description: | # this will include new lines to allow paragraphs
-          ## **A Knowledge Distillation Method Based on IQE Attention Mechanism for Target Recognition in Sar Imagery**
-          Jielei Wang, **Ting Jiang**, Zongyong Cui, Zongjie Cao, Changjie Cao 
-          [[Paper](https://ieeexplore.ieee.org/abstract/document/9883376/)]
-          [[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:ZTiRTn2OIsMJ:scholar.google.com/&output=citation&scisdr=Cm0wvJcrEJz3oTa27ao:AGlGAw8AAAAAZJKw9apMbCrITuxB3H0Lu9jT8h8&scisig=AGlGAw8AAAAAZJKw9bjU0LmL4D7gSXB5h24ATAc&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
-      
-      - layout: left
-        title: IGARSS 2018
-        # caption: 
-        sub_title: <blue_mark>Accepted</blue_mark>
-        description: | # this will include new lines to allow paragraphs
-          ## **Data Augmentation with Gabor Filter in Deep Convolutional Neural Networks for SAR Target Recognition**
-          **Ting Jiang**, Zongyong Cui, Zhi Zhou, Zongjie Cao  
-          [[PDF](https://sci-hub.se/https://ieeexplore.ieee.org/document/8518792)]
-          [[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:HRfCTYzKoHEJ:scholar.google.com/&output=citation&scisdr=CgX3wfUqEPLblTZ_Te4:AAGBfm0AAAAAYbB5Ve7zKKgIjF-o89gQhHd_TF32yaLA&scisig=AAGBfm0AAAAAYbB5VVN2mVrRg7Mctytlrqk1zDiJZ6Q4&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
-      
-      - layout: left
-        title: IGARSS 2018
-        # caption: 
-        sub_title: <blue_mark>Accepted</blue_mark>
-        description: | # this will include new lines to allow paragraphs
-          ## **Adaptive Weighted Multi-Task Sparse Representation Classification in SAR Image Recognition**
-          Zhi Zhou, Zongjie Cao, Yiming Pi, **Ting Jiang**  
-          [[PDF](https://sci-hub.se/10.1109/igarss.2018.8519004)]
-          [[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:f_rOmrAJfqoJ:scholar.google.com/&output=citation&scisdr=CgX3wfUqEPLblTZ_1A4:AAGBfm0AAAAAYbB5zA7JsuImgF6RjVMo4zr94VpXrOVu&scisig=AAGBfm0AAAAAYbB5zC7GmB-jc-_X80TEdD3WwGNkLsfp&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
-      
-  - title: Competitions # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: NTIRE 2023
-        # caption: 
-        sub_title: <blue_mark>Winner</blue_mark>
-        description: | # this will include new lines to allow paragraphs
-          ## [NTIRE 2023 Efficient Super-resolution Challenge](https://codalab.lisn.upsaclay.fr/competitions/10256)
-      
-      - layout: left
-        title: NTIRE 2021
-        # caption: 
-        sub_title: <blue_mark>Winner</blue_mark>
-        description: | # this will include new lines to allow paragraphs
-          ## [NTIRE 2021 High Dynamic Range Challenge - Track 2 Multiple Frames](https://competitions.codalab.org/competitions/28162)
-
-      - layout: left
-        title: MIPI 2023
-        # caption: 
-        sub_title: <blue_mark>2nd Place Award</blue_mark>
-        description: | # this will include new lines to allow paragraphs
-          ## [RGBW Joint Fusion and Denoise @MIPI-challenge](https://codalab.lisn.upsaclay.fr/competitions/9344)
-      
-      - layout: left
-        title: NTIRE 2023
-        # caption: 
-        sub_title: <blue_mark>2nd Place Award</blue_mark>
-        description: | # this will include new lines to allow paragraphs
-          ## [Image Shadow Removal Challenge](https://codalab.lisn.upsaclay.fr/competitions/10253)
-
-      - layout: left
-        title: MIPI 2022
-        # caption: 
-        sub_title: <blue_mark>2nd Place Award</blue_mark>
-        description: | # this will include new lines to allow paragraphs
-          ## [RGBW Joint Fusion and Denoise @MIPI-challenge](https://codalab.lisn.upsaclay.fr/competitions/4953#learn_the_details)
-    
-      - layout: left
-        title: MIPI 2023
-        # caption: 
-        sub_title: <blue_mark>3nd Place Award</blue_mark>
-        description: | # this will include new lines to allow paragraphs
-            ## [RGBW Joint Remosaic and Denoise @MIPI-challenge](https://codalab.lisn.upsaclay.fr/competitions/9343)
-      
-      - layout: left
-        title: MIPI 2023
-        # caption: 
-        sub_title: <blue_mark>3nd Place Award</blue_mark>
-        description: | # this will include new lines to allow paragraphs
-            ## [Nighttime Flare Removal @MIPI-challenge](https://codalab.lisn.upsaclay.fr/competitions/9402)
-
-      - layout: left
-        title: NTIRE 2023
-        # caption: 
-        sub_title: <blue_mark>Fifth</blue_mark>
-        description: | # this will include new lines to allow paragraphs
-          ## [Image Denoising Challenge](https://codalab.lisn.upsaclay.fr/competitions/10255)
-
-      - layout: left
-        title: MIPI 2022
-        # caption: 
-        sub_title: <blue_mark>Sixth</blue_mark>
-        description: | # this will include new lines to allow paragraphs
-          ## [Quad Joint Remosaic and Denoise @MIPI-challenge](https://codalab.lisn.upsaclay.fr/competitions/4955)
-      
-      - layout: left
-        title: NTIRE 2022
-        # caption: 
-        sub_title: <blue_mark>Fifth</blue_mark>
-        description: | # this will include new lines to allow paragraphs
-          ## [NTIRE 2022 High Dynamic Range Challenge - Track 2 Low-complexity (fidelity constrain)](https://codalab.lisn.upsaclay.fr/competitions/1515)
-
-      - layout: left
-        title: NTIRE 2022
-        # caption: 
-        sub_title: <blue_mark>Eighth</blue_mark>
-        description: | # this will include new lines to allow paragraphs
-          ## [NTIRE 2022 High Dynamic Range Challenge - Track 1 Fidelity(low-complexity constrain)](https://codalab.lisn.upsaclay.fr/competitions/1514)
- 
-
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Driver Monitor System
-        caption: Dec. 2018 - Jul. 2019
-        sub_title: Major member
-        description: | # this will include new lines to allow paragraphs
-          Responsible for designing a light-weighted end-to-end network running on an onboard chip to detect smoking, phoning, 
-          and drinking in driving. I participated in the overall pipeline of algorithm development, including data collection, 
-          data cleaning, algorithm development, and upgrading.
-        video_path: images/DMS_smoke_demo1.mp4
-        video_path1: images/DMS_smoke_demo2.mp4
-        video_path2: images/DMS_phone_demo.mp4
-
-      - layout: left
-        title: High dynaimc range image
-        caption: Jul. 2019 - Present
-        sub_title: Algorithm Leader
-        description: | # this will include new lines to allow paragraphs
-          Compared with ordinary images, high dynamic range (HDR) image can provide more dynamic range and image details, according to different exposure time low dynamic range (LDR) images, 
-          use each exposure time corresponds to the LDR image with the best details to synthesize the final HDR image, which can better reflect the visual effects in the real environment of people.
-        img_path4: images/hdr_full.png
-
-      - layout: left
-        title: Super night view
-        caption: Jul. 2019 - Present
-        sub_title: Algorithm Leader
-        description: | # this will include new lines to allow paragraphs
-          Hand-held super night scene, improve night scene brightness, clarity, noise, dynamic range and other performance.
-        img_path4: images/cjyj_full.png
-      
-      - layout: left
-        title: Denoising
-        caption: Jul. 2019 - Present
-        sub_title: Algorithm Leader
-        description: | # this will include new lines to allow paragraphs
-          In extreme scenarios, the noise is improved, and it is suitable for various mobile devices, such as mobile phones, vehicles, drones, robots, etc.
-        img_path3: images/dzjz.png
-        img_path5: images/szjz.png
-      
-      - layout: left
-        title: Super Resolution
-        caption: Jul. 2019 - Present
-        sub_title: Algorithm Leader
-        description: | # this will include new lines to allow paragraphs
-          The recovery effect of details in the smart phone super resolution project is better than that of the competitor.
-        img_path6: images/sr.png
-      
-      - layout: left
-        title: Portrait beauty
-        caption: Jul. 2019 - Present
-        sub_title: Algorithm Leader
-        description: | # this will include new lines to allow paragraphs
-          Adjust the face area adaptively to achieve the effect of beautifying portraits. 
-          As a team leader, lead team members to develop a new type of beautifying algorithm, and successfully applied to products and widely used.
-        img_path: images/b.png
-        img_path1: images/b1.png
-        img_path2: images/b2.png
-
-      - layout: left
-        title: Detection & Tracking
-        caption: Jul. 2019 - Present
-        sub_title: Algorithm Leader
-        description: | # this will include new lines to allow paragraphs
-          It mainly involves the detection of ghosts existing in the project to achieve precise positioning.
-        img_path6: images/gjjc.png
-      
-      - layout: left
-        title: Inpainting
-        caption: Jul. 2019 - Present
-        sub_title: Algorithm Leader
-        description: | # this will include new lines to allow paragraphs
-          The recovery effect of details in the smart erasing project is better than that of competing models.
-        img_path6: images/inpainting.png
-
-      
-      
-
-# Footer
-footer_show_references: true
-# references_title: References on request (Override references text)
-
-# Build settings
-# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
-# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
-
+# Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
+
+# Outputting
+permalink: /:categories/:title/
+timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+
+# Plugins
 plugins:
- - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-redirect-from
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
 
-exclude : [
-  "Gemfile",
-  "Gemfile.lock",
-  "node_modules",
-  "vendor/bundle/",
-  "vendor/cache/",
-  "vendor/gems/",
-  "vendor/ruby/",
-  "lib/",
-  "scripts/",
-  "docker-compose.yml",
-  ]
-theme: jekyll-theme-architect
+
+# HTML Compression
+# - http://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
