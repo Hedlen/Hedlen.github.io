@@ -209,7 +209,7 @@ Zhi Zhou, Zongjie Cao, Yiming Pi, <u>Ting Jiang</u>
 
 <!-- ###################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/b.png' alt="sym" width="33%"></img><img src='images/b1.png' alt="sym" width="33%"></img><img src='images/b2.png' alt="sym" width="33%"></img></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/b.png' alt="sym" width="33%"><img src='images/b1.png' alt="sym" width="33%"><img src='images/b2.png' alt="sym" width="33%"></div>
 <div class='paper-box-text' markdown="1">
 
 **Portrait beauty**  
@@ -219,7 +219,7 @@ Zhi Zhou, Zongjie Cao, Yiming Pi, <u>Ting Jiang</u>
 </div>
 
 <!-- ###################################################### -->
-<div class='paper-box'><div class='paper-box-image'><image src='images/gjjc.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/gjjc.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **Object Detection**  
@@ -229,7 +229,7 @@ Zhi Zhou, Zongjie Cao, Yiming Pi, <u>Ting Jiang</u>
 </div>
 
 <!-- ###################################################### -->
-<div class='paper-box'><div class='paper-box-image'><image src='images/inpainting.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/inpainting.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **Intelligent Erase**  
