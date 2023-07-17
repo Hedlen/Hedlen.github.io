@@ -91,7 +91,7 @@ can better control the distribution and level of generated noise.
 **DIPNet: Efficiency Distillation and Iterative Pruning for Image Super-Resolution**  
 Lei Yu, Xinpeng Li, Youwei Li, <u>Ting Jiang</u>, Qi Wu, Haoqiang Fan, Shuaicheng Liu
 
-**<font color = "#224B8D">EEE Conference on Computer Vision and Pattern Recognition Workshop (CVPRW) 2023</font>** \| [Paper](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Yu_DIPNet_Efficiency_Distillation_and_Iterative_Pruning_for_Image_Super-Resolution_CVPRW_2023_paper.pdf) \| [Code](https://github.com/xiumu00/DIPNet) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+**<font color = "#224B8D">IEEE Conference on Computer Vision and Pattern Recognition Workshop (CVPRW) 2023</font>** \| [Paper](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Yu_DIPNet_Efficiency_Distillation_and_Iterative_Pruning_for_Image_Super-Resolution_CVPRW_2023_paper.pdf) \| [Code](https://github.com/xiumu00/DIPNet) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 - <span style="color:red">**Winner method**</span> of the NTIRE Super-Resolution Challenge 2023.
 - This work propose the use of enhanced HR images to improve the learning ability of lightweight networks.
 - A novel multi-stage lightweight training strategy combining distillation, progressive learning, and pruning is proposed.
@@ -119,7 +119,7 @@ Jielei Wang, Zongyong Cui, <u>Ting Jiang</u>, Changjie Cao, Zongjie Cao
 **ADNet: Attention-guided Deformable Convolutional Network for High Dynamic Range Imaging**  
 Zhen Liu, Wenjie Lin, Xinpeng Li, <u>Ting Jiang</u>, Mingyan Han, Qing Rao, Haoqiang Fan, Jian Sun, Shuaicheng Liu
 
-**<font color = "#224B8D">EEE Conference on Computer Vision and Pattern Recognition Workshop (CVPRW) 2021</font>** \| [Paper](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Liu_ADNet_Attention-Guided_Deformable_Convolutional_Network_for_High_Dynamic_Range_Imaging_CVPRW_2021_paper.pdf) \| [Code](https://github.com/liuzhen03/ADNet) \| [Video: [Youtube](https://www.youtube.com/watch?v=M0X-BXe3UqM&t=2s), [Bilibili](https://www.bilibili.com/video/BV19h411a78M/)] <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+**<font color = "#224B8D">IEEE Conference on Computer Vision and Pattern Recognition Workshop (CVPRW) 2021</font>** \| [Paper](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Liu_ADNet_Attention-Guided_Deformable_Convolutional_Network_for_High_Dynamic_Range_Imaging_CVPRW_2021_paper.pdf) \| [Code](https://github.com/liuzhen03/ADNet) \| [Video: [Youtube](https://www.youtube.com/watch?v=M0X-BXe3UqM&t=2s), [Bilibili](https://www.bilibili.com/video/BV19h411a78M/)] <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 - This work proposes a novel dual-branch pipeline for multiframe HDR imaging of dynamic scenes.
 <!-- - A deep constrained least square filtering module is applied in the feature space to generate clean features based on the estimated kernel. -->
 </div>
@@ -154,7 +154,9 @@ Zhi Zhou, Zongjie Cao, Yiming Pi, <u>Ting Jiang</u>
 ***<font color = "#224B8D">International Geoscience and Remote Sensing Symposium (IGRASS) 2018</font>*** \| [[Paper](https://sci-hub.se/10.1109/igarss.2018.8519004)]
 
 # 🧵 Projects
-div class='paper-box'><div class='paper-box-image'><img src='images/DMS_phone_demo.mp4' alt="sym" width="33%"><img src='images/DMS_smoke_demo1.mp4' alt="sym" width="33%"><img src='images/DMS_phone_demp.mp4' alt="sym" width="33%"><img src='images/DMS_phone_demo2.mp4' alt="sym" width="33%"></div>
+div class='paper-box'><div class='paper-box-image'><video src='images/DMS_phone_demo.mp4' alt="sym" width="33%">
+<!-- <video src="http://www.w3school.com.cn/i/movie.mp4" controls="" height=400 width=600> </video> -->
+<video src='images/DMS_smoke_demo1.mp4' alt="sym" width="33%"><video src='images/DMS_phone_demo2.mp4' alt="sym" width="33%"></div>
 <div class='paper-box-text' markdown="1">
 
 **Driver Monitor System**  
