@@ -55,7 +55,8 @@ I received my Master degree at Information and Communication Engineering in Univ
 <u>Ting Jiang</u>, Chuan Wang, Xinpeng Li, Ru Li, Haoqiang Fan, Shuaicheng Liu
 
 **<font color = "#224B8D">International Conference on Computer Vision （ICCV） 2023</font>** \| <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-- This work first introduce the SAM encoder as a feature extractor in IQA and demonstrate its strong generalization ability in this domain
+- This work introduce MEFLUT that learns 1D LUTs for the task of MEF. It show that the fusion weights can be encoded into the LUTs successfully. Once learned, MEFLUT can be easily deployed with high efficiency, so that a 4K image runs in less than 4ms on a PC GPU. 
+- This is the first time to demonstrate the benefits of LUTs for MEF. 
 </div>
 </div>
 
