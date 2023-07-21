@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Ting Jiang (蒋霆)"
   avatar           : "images/white_bg.jpg"
-  bio              : "Technical Director in CV, CG and AIGC at MEGVII Research"
+  bio              : "Technical Director in CV and CG at MEGVII Research"
   location         : "Chengdu, China"
   employer         : "MEGVII"
   pubmed           : 
