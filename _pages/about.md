@@ -26,7 +26,7 @@ I received my Master degree at Information and Communication Engineering in Univ
 
 # 🔥 News
 - *2023.07*: &nbsp;🎉🎉 One paper is accepted by IEEE Conference on International Conference on Computer Vision(**ICCV2023**).
-- *2023.06*: &nbsp;🎉🎉 One paper is accepted by IEEE Conference on Computer Vision and Pattern Recognition WorkShop(**CVPRW2022**).
+- *2023.06*: &nbsp;🎉🎉 One paper is accepted by IEEE Conference on Computer Vision and Pattern Recognition WorkShop(**CVPRW2023**).
 - *2023.06*: &nbsp;🎉🎉 We win 2nd place in the NTIRE 2023 Shadow Removal Challenge (**2st place on perceptual scores**).
 - *2022.06*: &nbsp;🎉🎉 We win 1st place in the NTIRE 2022 Efficient Super-Resolution Challenge (**Winner**).
 - *2023.02*: &nbsp;🎉🎉 We win 2st place in the MIPI 2022 RGBW Joint Fusion and Denoise Challenge (**Runner up**).
@@ -54,7 +54,7 @@ I received my Master degree at Information and Communication Engineering in Univ
 **MEFLUT: Unsupervised Learning 1D Lookup Tables for Multi-exposure Image Fusion**  
 <u>Ting Jiang</u>, Chuan Wang, Xinpeng Li, Ru Li, Haoqiang Fan, Shuaicheng Liu
 
-**<font color = "#224B8D">International Conference on Computer Vision （ICCV） 2023</font>** \| <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+**<font color = "#224B8D">International Conference on Computer Vision （ICCV） 2023</font>** \| [Paper](https://arxiv.org/pdf/2309.11847.pdf) \| [Code](https://github.com/Hedlen/MEFLUT) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 - This work introduce MEFLUT that learns 1D LUTs for the task of MEF. It show that the fusion weights can be encoded into the LUTs successfully. Once learned, MEFLUT can be easily deployed with high efficiency, so that a 4K image runs in less than 4ms on a PC GPU. 
 - This is the first time to demonstrate the benefits of LUTs for MEF. 
 </div>
