@@ -274,6 +274,7 @@ Zhi Zhou, Zongjie Cao, Yiming Pi, <u>Ting Jiang</u>
 # 📫 Academic Services
 ### Journal Reviewer 
 - IEEE Transactions on Image Processing (TIP) 2023
+-  IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) 2023
 
 ### Conference Reviewer
 - IEEE Conference on International Conference on Computer Vision (ICCV) 2023
