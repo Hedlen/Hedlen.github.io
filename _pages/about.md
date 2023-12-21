@@ -25,6 +25,7 @@ I received my Master degree at Information and Communication Engineering in Univ
 
 
 # 🔥 News
+- *2023.12*: &nbsp;🎉🎉 One paper is accepted by Elsevier Pattern Recognition (**PR2023**).
 - *2023.07*: &nbsp;🎉🎉 One paper is accepted by IEEE Conference on International Conference on Computer Vision(**ICCV2023**).
 - *2023.06*: &nbsp;🎉🎉 One paper is accepted by IEEE Conference on Computer Vision and Pattern Recognition WorkShop(**CVPRW2023**).
 - *2023.06*: &nbsp;🎉🎉 We win 2nd place in the NTIRE 2023 Shadow Removal Challenge (**2st place on perceptual scores**).
