@@ -25,16 +25,16 @@ I received my Master degree at Information and Communication Engineering in Univ
 
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 One paper is accepted by ACM International Conference on Multimedia (**ACMMM2024**).
+- *2024.07*: &nbsp;🎉🎉 One paper is accepted by the ACM International Conference on Multimedia (**MM2024**).
 - *2024.04*  &nbsp;🎉🎉 We win 2nd place in the NTIRE 2024 BracketIRE Challenge (**Runner up**).
 - *2023.12*: &nbsp;🎉🎉 One paper is accepted by Elsevier Pattern Recognition (**PR2023**).
-- *2023.07*: &nbsp;🎉🎉 One paper is accepted by IEEE Conference on International Conference on Computer Vision(**ICCV2023**).
-- *2023.06*: &nbsp;🎉🎉 One paper is accepted by IEEE Conference on Computer Vision and Pattern Recognition WorkShop(**CVPRW2023**).
+- *2023.07*: &nbsp;🎉🎉 One paper is accepted by the IEEE Conference on International Conference on Computer Vision(**ICCV2023**).
+- *2023.06*: &nbsp;🎉🎉 One paper is accepted by the IEEE Conference on Computer Vision and Pattern Recognition Workshop (**CVPRW2023**).
 - *2023.06*: &nbsp;🎉🎉 We win 2nd place in the NTIRE 2023 Shadow Removal Challenge (**2st place on perceptual scores**).
 - *2022.06*: &nbsp;🎉🎉 We win 1st place in the NTIRE 2022 Efficient Super-Resolution Challenge (**Winner**).
-- *2023.02*: &nbsp;🎉🎉 We win 2st place in the MIPI 2022 RGBW Joint Fusion and Denoise Challenge (**Runner up**).
-- *2022.12*: &nbsp;🎉🎉 One paper is accepted by IEEE Conference on Transaction on Image Processing(**TIP2022**). 
-<!--- *2021.12*: &nbsp;🎉🎉 One paper is accepted by AAAI Conference on Artificial Intelligence (AAAI 2022). -->
+- *2023.02*: &nbsp;🎉🎉 We win 2nd place in the MIPI 2022 RGBW Joint Fusion and Denoise Challenge (**Runner up**).
+- *2022.12*: &nbsp;🎉🎉 One paper is accepted by the IEEE on Transaction on Image Processing(**TIP2022**). 
+<!--- *2021.12*: &nbsp;🎉🎉 One paper is accepted by the AAAI Conference on Artificial Intelligence (AAAI 2022). -->
  
 
 # 📝 Publications 
