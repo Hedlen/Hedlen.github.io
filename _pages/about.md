@@ -25,6 +25,7 @@ I received my Master degree at Information and Communication Engineering in Univ
 
 
 # 🔥 News
+- *2024.12*: &nbsp;🎉🎉 Two papers are accepted by the Association for the Advancement of Artificial Intelligence (**AAAI 2025**).
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by the ACM International Conference on Multimedia (**MM2024**).
 - *2024.04*  &nbsp;🎉🎉 We win 2nd place in the NTIRE 2024 BracketIRE Challenge (**Runner up**).
 - *2023.12*: &nbsp;🎉🎉 One paper is accepted by Elsevier Pattern Recognition (**PR2023**).
